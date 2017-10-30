@@ -8,7 +8,7 @@
 
 ##### 熟悉p5编程基本环境
 
-
+<br>
 
 **互动编程基本介绍**
 
@@ -24,7 +24,8 @@
 
 - 硬件编程， Arduino， 与互动编程如何结合与创造
 
-_P5.js, 本课程教学语言与应用框架介绍_**
+
+**P5.js, 本课程教学语言与应用框架介绍**
 
 - P5.js, 与广泛HTML, CSS,和 JavaScript的关系
 
@@ -36,7 +37,8 @@ _P5.js, 本课程教学语言与应用框架介绍_**
 
 - 如何应用，嵌入网站，服务器端与本地端的基本区别
 
-_编程内容教学_**
+
+**编程内容教学**
 
 - 第一个程序！
 
@@ -47,7 +49,8 @@ _编程内容教学_**
 - Color, shape, canvas， 颜色， 形状和网页画布 
 - P5.js reference page 
 
-_应用例子，布置作业_**
+
+**应用例子，布置作业**
 
 作业事例（绝对不局限于事例，发挥想象力）
 
@@ -69,9 +72,9 @@ _应用例子，布置作业_**
 
   
   
-_作业分享，分析与答疑_**
+**作业分享，分析与答疑**
 
-_编程内容教学_**
+**编程内容教学**
 
 - 变量 Variables: mouseX, mouseY, keyPressed()
 
@@ -83,7 +86,7 @@ _编程内容教学_**
 
 - Conditional Statement 条件语句
 
-_有什么用？ 例子_**
+**例子**
 
 [Circle rollover](http://alpha.editor.p5js.org/projects/H1kCSqah)
 
@@ -99,7 +102,7 @@ Else, else if, AND, OR
 
   
 
-_应用例子 - 课程效果_**
+**应用例子 - 课程效果**
 
 [Bouncing ball](http://alpha.editor.p5js.org/projects/BJKWv5Tn)
 
