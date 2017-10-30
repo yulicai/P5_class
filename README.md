@@ -10,7 +10,7 @@
 
 
 
-*互动编程基本介绍*
+####*互动编程基本介绍*
 
 - 互动编程应用领域，实际案例
 
@@ -24,7 +24,7 @@
 
 - 硬件编程， Arduino， 与互动编程如何结合与创造
 
-*P5.js, 本课程教学语言与应用框架介绍*
+####*P5.js, 本课程教学语言与应用框架介绍*
 
 - P5.js, 与广泛HTML, CSS,和 JavaScript的关系
 
@@ -36,7 +36,7 @@
 
 - 如何应用，嵌入网站，服务器端与本地端的基本区别
 
-*编程内容教学*
+####*编程内容教学*
 
 - 第一个程序！
 
@@ -47,7 +47,7 @@
 - Color, shape, canvas， 颜色， 形状和网页画布 
 - P5.js reference page 
 
-*应用例子，布置作业*
+####**应用例子，布置作业*
 
 作业事例（绝对不局限于事例，发挥想象力）
 
@@ -57,8 +57,7 @@
 
 [自画像](http://alpha.editor.p5js.org/YifanLiu/sketches/ByefCvxq-)
 
-
-
+***
 <br><br>
 ## 2. 基于编程语言的创意互动视觉 － 01 
 
@@ -71,21 +70,21 @@
   
   
 
-作业分享，分析与答疑
+####*作业分享，分析与答疑*
 
-编程内容教学
+####*编程内容教学*
 
 - 变量 Variables: mouseX, mouseY, keyPressed()
 
 - random()，map()
 
-－Transformation 矩阵变化
+- Transformation 矩阵变化
 
-translate(), rotate(), scale(), push(), pop()
+- translate(), rotate(), scale(), push(), pop()
 
-－Conditional Statement 条件语句
+- Conditional Statement 条件语句
 
-有什么用？ 例子
+####*有什么用？ 例子*
 
 [Circle rollover](http://alpha.editor.p5js.org/projects/H1kCSqah)
 
@@ -101,7 +100,7 @@ Else, else if, AND, OR
 
   
 
-应用例子 - 课程效果
+####*应用例子 - 课程效果*
 
 [Bouncing ball](http://alpha.editor.p5js.org/projects/BJKWv5Tn)
 
@@ -112,3 +111,6 @@ Else, else if, AND, OR
 [实时画圈](http://alpha.editor.p5js.org/projects/r1JeQqa3)
 
 [万花筒](https://alpha.editor.p5js.org/keerthanapareddy/sketches/B1VcoeujW)
+
+***
+<br><br>
