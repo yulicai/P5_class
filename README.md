@@ -2,7 +2,7 @@
 
 ## 1. 课程介绍与基础编程语言 
 
-##### 课程目标：
+##### 本次课程目标：
 
 ##### 首个基于JavaScript的网页静态创作
 
@@ -56,3 +56,59 @@
 [城市](http://alpha.editor.p5js.org/bonder/sketches/SkXcZd7qZ)
 
 [自画像](http://alpha.editor.p5js.org/YifanLiu/sketches/ByefCvxq-)
+
+
+
+<br><br>
+## 2. 基于编程语言的创意互动视觉 － 01 
+
+##### 本次课程目标： 
+
+##### 基于更多功能的多层次视觉创造
+
+##### 第一个互动动态创作
+
+  
+  
+
+作业分享，分析与答疑
+
+编程内容教学
+
+- 变量 Variables: mouseX, mouseY, keyPressed()
+
+- random()，map()
+
+－Transformation 矩阵变化
+
+translate(), rotate(), scale(), push(), pop()
+
+－Conditional Statement 条件语句
+
+有什么用？ 例子
+
+[Circle rollover](http://alpha.editor.p5js.org/projects/H1kCSqah)
+
+Boolean expressions, 布尔函数
+
+If statement
+
+Else, else if, AND, OR
+
+[Button Holddown](http://alpha.editor.p5js.org/projects/S16-H9pn)(live vj) (AND)
+
+[Roll Over With Fade](http://alpha.editor.p5js.org/projects/SkPsHcph) (else if)
+
+  
+
+应用例子 - 课程效果
+
+[Bouncing ball](http://alpha.editor.p5js.org/projects/BJKWv5Tn)
+
+[白日梦女孩](http://alpha.editor.p5js.org/Chelsea-chenchen/sketches/r1_z0kysb)
+
+[随机画圈](http://alpha.editor.p5js.org/projects/HJg8jfcT3)
+
+[实时画圈](http://alpha.editor.p5js.org/projects/r1JeQqa3)
+
+[万花筒](https://alpha.editor.p5js.org/keerthanapareddy/sketches/B1VcoeujW)
