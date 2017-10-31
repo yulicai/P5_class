@@ -117,10 +117,12 @@
 [自画像](http://alpha.editor.p5js.org/YifanLiu/sketches/ByefCvxq-)
 
 <br>
+
 **作业上交**
 
 _作业上交模版_<br>
-你的名字，作品名称： [代码](http://alpha.editor.p5js.org/) - [图文](http://baidu.com/)
+你的名字，作品名称： [代码链接](http://alpha.editor.p5js.org/) - [图文链接](http://baidu.com/)
+
 <br>
 
 ***
