@@ -1,12 +1,28 @@
 # P5_class 线上课程教案
 
-## 1. 课程介绍与基础编程语言 
+## 资源 / Resources
+1. [p5官方网站](https://p5js.org/)
+2. [p5 Reference 指令参考](https://p5js.org/reference/)
+
+## 课程创意案例
+1. [Constellation](https://www.openprocessing.org/sketch/434620)
+2. [艺术家Reza](http://www.syedrezaali.com/)
+
+## 商业案例/好玩的studio
+1. [Art + Com](https://artcom.de/en/)
+
+ 
+## 课程教案 Syllabus
+
+### 1. 课程介绍与基础编程语言 
 
 ##### 本次课程目标：
 
 ##### 首个基于JavaScript的网页静态创作
 
 ##### 熟悉p5编程基本环境
+
+##### 结合自身背景，想做的项目，创作可能性
 
 <br>
 
@@ -60,9 +76,10 @@
 
 [自画像](http://alpha.editor.p5js.org/YifanLiu/sketches/ByefCvxq-)
 
+<br>
 ***
-<br><br>
-## 2. 基于编程语言的创意互动视觉 － 01 
+<br>
+### 2. 基于编程语言的创意互动视觉 － 01 
 
 ##### 本次课程目标： 
 
@@ -70,7 +87,7 @@
 
 ##### 第一个互动动态创作
 
-  
+<br>
   
 **作业分享，分析与答疑**
 
@@ -113,6 +130,6 @@ Else, else if, AND, OR
 [实时画圈](http://alpha.editor.p5js.org/projects/r1JeQqa3)
 
 [万花筒](https://alpha.editor.p5js.org/keerthanapareddy/sketches/B1VcoeujW)
-
+<br>
 ***
-<br><br>
+<br>
