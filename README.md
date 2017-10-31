@@ -33,7 +33,7 @@
 
 #### 作业上交形式
 
-[点击此处进入作业页面](https://github.com/yulicai/P5_class/wiki)，查看作业描述，上交作业
+[点击此处进入作业页面](https://github.com/yulicai/P5_class/wiki/p5创意编程---作业区域/)，查看作业描述，上交作业
 
 ***
 
