@@ -91,7 +91,7 @@
 - P5.js reference page 
 
 
-**应用例子，布置作业**
+**本次作业**
 1. 肖像画<br>
 	运用所学的基本绘画编程指令，画一个肖像画，自画像或者是他人肖像画<br>
 	要求： 有创意，追求视觉效果<br>
@@ -141,23 +141,21 @@
 
 - Conditional Statement 条件语句
 
+	[Circle rollover](http://alpha.editor.p5js.org/projects/H1kCSqah)
+
+- Boolean expressions, 布尔函数
+
+- If statement
+
+- Else, else if, AND, OR
+
+	[Button Holddown](http://alpha.editor.p5js.org/projects/S16-H9pn)(live vj) (AND)
+
+	[Roll Over With Fade](http://alpha.editor.p5js.org/projects/SkPsHcph) (else if)
+
+**本次作业**
+
 **例子**
-
-[Circle rollover](http://alpha.editor.p5js.org/projects/H1kCSqah)
-
-Boolean expressions, 布尔函数
-
-If statement
-
-Else, else if, AND, OR
-
-[Button Holddown](http://alpha.editor.p5js.org/projects/S16-H9pn)(live vj) (AND)
-
-[Roll Over With Fade](http://alpha.editor.p5js.org/projects/SkPsHcph) (else if)
-
-  
-
-**应用例子 - 课程效果**
 
 [Bouncing ball](http://alpha.editor.p5js.org/projects/BJKWv5Tn)
 
@@ -168,12 +166,13 @@ Else, else if, AND, OR
 [实时画圈](http://alpha.editor.p5js.org/projects/r1JeQqa3)
 
 [万花筒](https://alpha.editor.p5js.org/keerthanapareddy/sketches/B1VcoeujW)
+
 <br>
 ***
 <br>
 
 
-##### 3.基于编程语言的创意互动视觉 － 02
+### 3.基于编程语言的创意互动视觉 － 02
 
 ##### 课程目标：
 
@@ -182,7 +181,7 @@ Else, else if, AND, OR
 ##### 创作内容层次更加丰富
 
   
-  
+<br>
 
 **作业分享，分析与答疑**
 
@@ -190,9 +189,9 @@ Else, else if, AND, OR
 
 - Loops 循环语句
 
-While and for loop
+- While and for loop
 
-[10个列](http://alpha.editor.p5js.org/mimi/sketches/BJG29y1sb)
+	[10个列](http://alpha.editor.p5js.org/mimi/sketches/BJG29y1sb)
 
 - Nested loops 叠加循环 （矩阵画图）
 
@@ -202,29 +201,29 @@ While and for loop
 
 - 模块化 Modularity
 
-[Bouncing ball with function & gravity](http://alpha.editor.p5js.org/projects/H1Oq4qta)
+	[Bouncing ball with function & gravity](http://alpha.editor.p5js.org/projects/H1Oq4qta)
 
 - 参数 arguments and parameters
 
-[Dice no functions example](http://alpha.editor.p5js.org/projects/ryx70m5tT)
+	[Dice no functions example](http://alpha.editor.p5js.org/projects/ryx70m5tT)
 
-[Dice w/ functions example](http://alpha.editor.p5js.org/projects/S1R44qtT)
+	[Dice w/ functions example](http://alpha.editor.p5js.org/projects/S1R44qtT)
 
-－ 重复运用 re-usability
+- 重复运用 re-usability
 
-[画不同的机器人](http://alpha.editor.p5js.org/projects/rylf4S5K6)
+	[画不同的机器人](http://alpha.editor.p5js.org/projects/rylf4S5K6)
 
-－函数返回参数种类 return type
+- 函数返回参数种类 return type
 
-[改进p5 distance函数功能示例](http://alpha.editor.p5js.org/projects/HJgR7UcKa)
+	[改进p5 distance函数功能示例](http://alpha.editor.p5js.org/projects/HJgR7UcKa)
 
-－ 递归函数 recursive function
+- 递归函数 recursive function
 
-[重复递归圆绘画](http://alpha.editor.p5js.org/projects/Hyevi8ct6)
+	[重复递归圆绘画](http://alpha.editor.p5js.org/projects/Hyevi8ct6)
 
-  
+**本次作业** 
 
-**应用例子 - 课程效果**
+**例子**
 
 [10PRINT](http://alpha.editor.p5js.org/yulicai/sketches/B17AokeT-)
 
@@ -235,4 +234,9 @@ While and for loop
 [淡入绘画](http://alpha.editor.p5js.org/haiyiii/sketches/SkJlXK7i-)
 
 [鼠标点击递归绘画](http://alpha.editor.p5js.org/Simonmarqvard/sketches/BkLTb1OsW)
+
+
+<br>
+***
+<br>
 
