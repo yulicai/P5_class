@@ -171,3 +171,68 @@ Else, else if, AND, OR
 <br>
 ***
 <br>
+
+
+##### 3.基于编程语言的创意互动视觉 － 02
+
+##### 课程目标：
+
+##### 了解编程中循环语句与函数(function)
+
+##### 创作内容层次更加丰富
+
+  
+  
+
+**作业分享，分析与答疑**
+
+**编程内容教学**
+
+- Loops 循环语句
+
+While and for loop
+
+[10个列](http://alpha.editor.p5js.org/mimi/sketches/BJG29y1sb)
+
+- Nested loops 叠加循环 （矩阵画图）
+
+- 函数的概念，Calling vs. defining 定义一个函数
+
+	setup(), draw()本身就是函数
+
+- 模块化 Modularity
+
+[Bouncing ball with function & gravity](http://alpha.editor.p5js.org/projects/H1Oq4qta)
+
+- 参数 arguments and parameters
+
+[Dice no functions example](http://alpha.editor.p5js.org/projects/ryx70m5tT)
+
+[Dice w/ functions example](http://alpha.editor.p5js.org/projects/S1R44qtT)
+
+－ 重复运用 re-usability
+
+[画不同的机器人](http://alpha.editor.p5js.org/projects/rylf4S5K6)
+
+－函数返回参数种类 return type
+
+[改进p5 distance函数功能示例](http://alpha.editor.p5js.org/projects/HJgR7UcKa)
+
+－ 递归函数 recursive function
+
+[重复递归圆绘画](http://alpha.editor.p5js.org/projects/Hyevi8ct6)
+
+  
+
+**应用例子 - 课程效果**
+
+[10PRINT](http://alpha.editor.p5js.org/yulicai/sketches/B17AokeT-)
+
+[你](http://alpha.editor.p5js.org/yulicai/sketches/HyShpklaZ)
+
+[点光源](http://alpha.editor.p5js.org/yulicai/sketches/S1vPRJl6-)
+
+[淡入绘画](http://alpha.editor.p5js.org/haiyiii/sketches/SkJlXK7i-)
+
+[鼠标点击递归绘画](http://alpha.editor.p5js.org/Simonmarqvard/sketches/BkLTb1OsW)
+
