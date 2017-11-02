@@ -414,3 +414,125 @@
 
 <br>
 
+
+### 7. 数据的艺术 Intro to Data
+
+##### 课程目标：
+
+##### 对数据有基本的了解
+
+##### 了解如何使用API
+
+##### 用数据进行创作
+
+<br> 
+  
+
+**数据艺术作品分享**
+
+**编程内容教学**
+
+- 不同数据文件类型
+
+	JSON, AJAX, XML
+
+	[JSON 格式化](https://jsonformatter.curiousconcept.com/)
+
+	[Loading external data with p5.js](https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
+
+- 什么是API， 有什么用
+
+	Openweather 做示例
+
+- 个人数据的记录，自己的api
+
+- 一些有用的api网站
+
+- OpenWeatherMap - [http://openweathermap.org/API](http://openweathermap.org/API) 
+- NYTimes - [http://developer.nytimes.com/](http://developer.nytimes.com/) 
+- The Guardian - [http://www.theguardian.com/open-platform](http://www.theguardian.com/open-platform) 
+- flickr - [https://www.flickr.com/services/api/](https://www.flickr.com/services/api/) 
+- MTA - [http://web.mta.info/developers/developer-data-terms.html#data](http://web.mta.info/developers/developer-data-terms.html#data) 
+- Foursquare - [https://developer.foursquare.com/](https://developer.foursquare.com/) 
+- Sunlight Foundation - [http://sunlightfoundation.com/api/](http://sunlightfoundation.com/api/) 
+- [http://en.wikipedia.org/wiki/List_of_open_APIs](http://en.wikipedia.org/wiki/List_of_open_APIs) 
+- [https://gist.github.com/afeld/4952991](https://gist.github.com/afeld/4952991) 
+  
+
+**例子**
+
+  
+<br>
+
+***
+
+<br>
+
+
+### 8. 视频与声音 Video and Sound and Image
+
+##### 课程目标：
+
+##### 用视频和实时图像捕捉还有声音进行创造
+
+<br>  
+  
+
+**作业分享，分析与答疑**
+
+**编程内容教学**
+
+- 视频和实施捕捉
+
+	[github例子链接](https://github.com/ITPNYU/ICM-2015/tree/master/09_video_sound)
+
+- 其他library 的运用
+
+	如何嵌入其他library
+
+	Clmtrackr 面部识别
+
+	(用本地的方式展示）需要测试online editor与video capture的兼容性
+
+	[基础视频捕捉](http://alpha.editor.p5js.org/projects/SyOh8YAye)
+
+	[视频错位](http://alpha.editor.p5js.org/projects/rJjgsFAJg)
+
+	[照相亭](http://alpha.editor.p5js.org/projects/rytSuKAke)
+
+- 声音
+
+	[播放和暂停声音](http://alpha.editor.p5js.org/projects/Sy_UotCye)
+
+	[改变声音频率](http://alpha.editor.p5js.org/projects/BJpSZ9Cyg)
+
+	[用麦克风来控制](http://alpha.editor.p5js.org/projects/Hy5Ob90Jl)
+
+	[Sound panning](https://p5js.org/examples/sound-pan-sound.html)
+
+
+- 图像
+
+	[Pointilism](https://p5js.org/examples/image-pointillism.html) 实际案例
+
+- 视频艺术作品分享
+
+	Glitch art 故障艺术
+
+- 简介max/msp
+
+**例子**
+
+Final project idea， 最终作品概念
+
+
+  
+<br>
+
+***
+
+<br>
+
+
+
+
