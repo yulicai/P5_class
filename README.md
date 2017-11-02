@@ -458,7 +458,7 @@
 - [http://en.wikipedia.org/wiki/List_of_open_APIs](http://en.wikipedia.org/wiki/List_of_open_APIs) 
 - [https://gist.github.com/afeld/4952991](https://gist.github.com/afeld/4952991) 
   
-
+**本次作业** 
 **例子**
 
   
@@ -521,6 +521,8 @@
 
 - 简介max/msp
 
+**本次作业** 
+
 **例子**
 
 Final project idea， 最终作品概念
@@ -553,6 +555,7 @@ Final project idea， 最终作品概念
 
 	[Using viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
 
+**本次作业** 
 **例子**
 
 以下例子用手机打开链接
@@ -583,7 +586,7 @@ Final project idea， 最终作品概念
 
 **Final Project 过程讨论**
 
-	开始创作的过程遇到的问题
+开始创作的过程遇到的问题
 
   
   
@@ -605,7 +608,7 @@ Final project idea， 最终作品概念
 <br>  
   
 
-－ Pixel
+- Pixel
 
 	实例，博物馆体验
 
@@ -631,7 +634,6 @@ Final project idea， 最终作品概念
 
 
 **Final Project 过程讨论**
-
 
 
 **Final Project例子**
