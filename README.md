@@ -282,8 +282,79 @@
 
 - 数组和for循环一起运用
 
-**应用例子 - 课程效果**
+**例子**
 
 [水墨画笔](http://alpha.editor.p5js.org/yulicai/sketches/rJd3C1xpW)
 
 [随机线笔触](http://alpha.editor.p5js.org/xmhany/sketches/rkOmxSKnW)
+
+
+
+<br>
+
+***
+
+<br>
+
+
+
+
+### 5.基于编程语言的创意互动视觉 － 04 
+
+##### 课程目标：
+
+##### 了解类与类的构造( Class & Constructor)
+
+##### 追求创作视觉层次与效果
+
+##### 基础编程语句教学最后一个课时
+
+ 
+  
+
+**作业分享，分析与答疑**
+
+**编程内容教学**
+
+- 类的基础概念，有什么左右，如何写一个类，es6
+
+	[两个重力球，共用同一个类](http://alpha.editor.p5js.org/icm/sketches/BkyUQp1nb)
+
+- 粒子系统，particle system
+
+- Nature of Code, 速度，加速度，力的作用
+
+- Vector 向量的基本讲解，为什么有用
+
+	基本速度与加速度运用在粒子系统中
+
+- 力的运用
+
+	基础的力(force)
+
+	转向力(steering force)
+
+	力的叠加 (weighting )
+
+**本次作业** 
+
+**例子**
+
+[圆-类](http://alpha.editor.p5js.org/mimi/sketches/SyRmnrWo-)
+
+[好多红色的圆！](http://alpha.editor.p5js.org/mimi/sketches/rJKyIvZ3W)
+
+[好多红色的圆2！](http://alpha.editor.p5js.org/ChaoChris/sketches/B1ypXvd3b)
+
+[互动条纹](http://alpha.editor.p5js.org/icm/sketches/B1ja76khW)
+
+[软体](https://p5js.org/examples/simulate-soft-body.html)
+
+<br>
+
+***
+
+<br>
+
+
+
