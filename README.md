@@ -90,6 +90,7 @@
 - Color, shape, canvas， 颜色， 形状和网页画布 
 - P5.js reference page 
 
+<br>
 
 **本次作业**
 1. 肖像画<br>
@@ -168,8 +169,11 @@
 [万花筒](https://alpha.editor.p5js.org/keerthanapareddy/sketches/B1VcoeujW)
 
 <br>
+
 ***
+
 <br>
+
 
 
 ### 3.基于编程语言的创意互动视觉 － 02
@@ -221,6 +225,8 @@
 
 	[重复递归圆绘画](http://alpha.editor.p5js.org/projects/Hyevi8ct6)
 
+<br>
+
 **本次作业** 
 
 **例子**
@@ -237,6 +243,47 @@
 
 
 <br>
+
 ***
+
 <br>
 
+
+### 4.基于编程语言的创意互动视觉 － 03
+
+##### 课程目标：
+
+##### 了解编程中数组(array)，对象(object) 的作用
+
+##### 创作内容更加自然
+
+  
+  
+
+**作业分享，分析与答疑**
+
+**编程内容教学**
+
+－ 对象（object) 介绍
+
+－ 数组 (array）介绍
+
+- 如何定义一个数组，数组的不同定义方法
+
+- 数组的基本元素，length
+
+- 一个数组的objects
+
+	.push() .splice()
+
+	点击鼠标，为数组增加一个新的元素
+
+	数组超过一定元素数量，就去掉一个，保证运行速度
+
+- 数组和for循环一起运用
+
+**应用例子 - 课程效果**
+
+[水墨画笔](http://alpha.editor.p5js.org/yulicai/sketches/rJd3C1xpW)
+
+[随机线笔触](http://alpha.editor.p5js.org/xmhany/sketches/rkOmxSKnW)
