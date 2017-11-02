@@ -534,5 +534,122 @@ Final project idea， 最终作品概念
 <br>
 
 
+### 9. 移动端（手机）创作
 
+##### 课程目标： 
+
+##### 了解基本用移动端打开前期创作成果的方法
+
+##### 针对移动端进行具体创作
+
+<br>
+  
+
+**作业分享，分析与答疑**
+
+**编程内容教学**
+
+- Index.html内容也上做了一些改变，方便手机浏览
+
+	[Using viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
+
+**例子**
+
+以下例子用手机打开链接
+
+单点[触摸](http://alpha.editor.p5js.org/projects/H1a1YWOgl)
+
+[多点触摸](http://alpha.editor.p5js.org/projects/HkDY43yxl)
+
+[设备移动](http://alpha.editor.p5js.org/projects/BysXo-dgx)
+
+[设备翻身](http://alpha.editor.p5js.org/projects/ryMwSnyxx)
+
+[设备摇晃](http://alpha.editor.p5js.org/projects/rkmqU2Jee)
+
+  
+
+[重力球](http://alpha.editor.p5js.org/projects/Hylv2b_xl)
+
+[加速度盒子](http://alpha.editor.p5js.org/projects/BJxoCbdxx)
+
+[左滑右滑](http://alpha.editor.p5js.org/projects/HyEDRsPel)
+
+[手指滑动速度控制小球](http://alpha.editor.p5js.org/projects/rkOj4bueg)
+
+[双手放大缩小](http://alpha.editor.p5js.org/projects/SJpBDW_gg)
+
+<br>
+
+**Final Project 过程讨论**
+
+	开始创作的过程遇到的问题
+
+  
+  
+<br>
+
+***
+
+<br>
+
+
+### 10.P5之外更广的世界
+
+##### 课程目标： 
+
+##### 浅浅了解其他新媒体创作工具
+
+##### 对以后的创作有更多种类的想法与选择
+
+<br>  
+  
+
+－ Pixel
+
+	实例，博物馆体验
+
+	Danny Rozin作品
+
+- 硬件编程 Physical Computing
+
+	Arduino
+
+	作品分享
+
+- Kinect 基本介绍，kinectron 
+
+- 其他JS Libraries
+
+	Three.js
+
+	与3d世界结合
+
+- 网站运用
+
+- VR AR 运用，Chrome Extensions
+
+
+**Final Project 过程讨论**
+
+
+
+**Final Project例子**
+
+[手机端煎鸡蛋](http://alpha.editor.p5js.org/full/BJc8V3QQx)
+
+[手机端挤蕃茄酱](http://alpha.editor.p5js.org/full/Hym-8c7mg)
+
+以上两个用手机打开，然后在屏幕上滑动
+
+[个人肖像](http://chan.dreamhosters.com/2016/12/06/final-project/)
+
+[自然月球互动](http://www.caiyuli.com/work/nature-geometry/)
+
+  
+<br>
+
+***
+
+<br>
 
