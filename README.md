@@ -257,7 +257,7 @@
 
 ##### 创作内容更加自然
 
-  
+<br> 
   
 
 **作业分享，分析与答疑**
@@ -309,7 +309,7 @@
 
 ##### 基础编程语句教学最后一个课时
 
- 
+<br>
   
 
 **作业分享，分析与答疑**
@@ -350,6 +350,7 @@
 
 [软体](https://p5js.org/examples/simulate-soft-body.html)
 
+
 <br>
 
 ***
@@ -357,4 +358,59 @@
 <br>
 
 
+### 6.画布之外
+
+##### 课程目标： 
+
+##### 前期内容整理回顾
+
+##### 理解运用回调函数（call back function)
+
+##### 比网页更广阔的创作空间（projection mapping 简介）
+
+<br>
+  
+
+**前期基础编程概念回顾**
+
+**作业分享，分析与答疑**
+
+**编程内容教学**
+
+- 回调函数（callback function)
+
+	button.mousePressed(callback);
+
+- 画布之外的运用渠道
+
+	Projection Mapping 简介
+
+**本次作业**
+
+**例子**
+
+- 基于同一个构造的三个不同例子
+
+	[圆-变色（不可逆）](http://alpha.editor.p5js.org/mimi/sketches/rJKyIvZ3W)
+
+	[圆-替换颜色（可逆）](http://alpha.editor.p5js.org/mimi/sketches/BkZTgUKjW)
+
+	[圆-消失](http://alpha.editor.p5js.org/mimi/sketches/HJzO3uq2Z)
+
+	[自然画线](https://p5js.org/examples/hello-p5-drawing.html)
+
+- 商业案例
+
+	[portal-projection mapping](https://vimeo.com/93108457)
+
+	[全新字体设计方法](https://vimeo.com/16519944)
+
+	[Second Story Particle System](https://secondstory.com/work/cox-media-group-cox-discovery-center)
+
+  
+<br>
+
+***
+
+<br>
 
