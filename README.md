@@ -5,7 +5,8 @@
 
 ## 资源 / Resources
 1. [p5官方网站](https://p5js.org/)
-2. [p5 Reference 指令参考](https://p5js.org/reference/)
+2. [p5线上编辑器](https://alpha.editor.p5js.org/)
+3. [p5 Reference 指令参考](https://p5js.org/reference/)
 
 ## 课程创意案例
 1. [Constellation](https://www.openprocessing.org/sketch/434620)

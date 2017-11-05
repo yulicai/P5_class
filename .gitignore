@@ -2,3 +2,6 @@
 config.js
 node_modules
 p5_bg.psd
+
+*.mp4
+*.mov
