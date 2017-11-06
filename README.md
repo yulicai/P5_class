@@ -40,7 +40,7 @@
 
 <br>
 
-### 1. 创意编程简介和简单创意绘画
+### 1. 创意编程简介和简单创意绘画 NOV 10
 
 ##### 本次课程目标：
 
@@ -95,15 +95,15 @@
 - Setup () 和 draw（）
 
 - 基本绘画指令
-  - color and background 颜色和背景
+  - color and background 颜色和背景<br>
     background()
     fill()
     stroke()
-  - shaping 形状
+  - shaping 形状<br>
     ellipse, line, point, rect
     bezier, curve
     beginShape, endShape, vertex
-- Color, shape, canvas， 颜色， 形状和网页画布
+- Color, shape, canvas， 颜色， 形状和网页画布<br>
 - 更多参见，P5.js reference page
 
 <br>
@@ -134,7 +134,7 @@
 
 <br>
 
-### 2. 基于编程语言的创意互动视觉 － 01
+### 2. 基于编程语言的创意互动视觉 － 01 NOV 11
 
 ##### 本次课程目标：
 
@@ -171,7 +171,9 @@
 	[Roll Over With Fade](http://alpha.editor.p5js.org/projects/SkPsHcph) (else if)
 
 **本次作业**
-
+#### 要求
+1. 作品每一次重新渲染，都是不一样的效果。
+2. 运用到鼠标的互动。
 **例子**
 
 [Bouncing ball](http://alpha.editor.p5js.org/projects/BJKWv5Tn)
