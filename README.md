@@ -54,7 +54,7 @@
 
 **互动编程基本介绍**
 
-- 互动编程应用领域，实际案例
+- 互动编程应用领域，实际案例<br>
   [BlueCadet 博物馆触屏设计](http://www.bluecadet.com/work/museum-of-the-american-revolution/) <br>
   [Reza VJ 后台操控](http://www.syedrezaali.com/#/ccrmamodulations/)<br>
   [Boundary Functions by Scott Snibbe](https://www.snibbe.com/digital-art#/projects/interactive/boundaryfunctions/)<br>
@@ -72,14 +72,14 @@
 
 **P5.js, 本课程教学语言与应用框架介绍**
 
-- P5.js, 与广泛HTML, CSS,和 JavaScript的关系
+- P5.js, 与广泛HTML, CSS,和 JavaScript的关系<br>
   [a short journey 动态编程 threejs](http://www.ashortjourney.com/)
 
 - P5 online editor vs 本地端
 
 1. 线上编辑器操作示范
 
-2. 线下编辑器操作，其他text editor
+2. 线下编辑器操作，其他text editor<br>
   [英语版如何运行一个本地服务器](https://github.com/lmccart/itp-creative-js/wiki/SimpleHTTPServer)
 
 - 如何应用，嵌入网站，服务器端与本地端的基本区别
@@ -95,9 +95,16 @@
 - Setup () 和 draw（）
 
 - 基本绘画指令
-
+  - color and background 颜色和背景
+    background()
+    fill()
+    stroke()
+  - shaping 形状
+    ellipse, line, point, rect
+    bezier, curve
+    beginShape, endShape, vertex
 - Color, shape, canvas， 颜色， 形状和网页画布
-- P5.js reference page
+- 更多参见，P5.js reference page
 
 <br>
 
