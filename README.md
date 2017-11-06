@@ -1,4 +1,4 @@
-# P5创意编程 
+# P5创意编程
 ###### 2017
 ###### [蔡雨利](http://caiyuli.com/) x 最毕设
 
@@ -15,7 +15,7 @@
 ## 商业案例/好玩的studio
 1. [Art + Com](https://artcom.de/en/)
 
- 
+
 ## 课程教案 Syllabus
 ### 课程大纲
 1. 	创意编程简介和简单创意绘画
@@ -28,7 +28,7 @@
 8. 	视频与声音与图像 Video & Sound & Image
 9. 	移动端（手机）创作
 10. p5之外更广的世界
-11. 作品showcase 
+11. 作品showcase
 
 <br>
 
@@ -40,7 +40,7 @@
 
 <br>
 
-### 1. 创意编程简介和简单创意绘画 
+### 1. 创意编程简介和简单创意绘画
 
 ##### 本次课程目标：
 
@@ -55,14 +55,17 @@
 **互动编程基本介绍**
 
 - 互动编程应用领域，实际案例
+  [BlueCadet 博物馆触屏设计](http://www.bluecadet.com/work/museum-of-the-american-revolution/) <br>
+  [Reza VJ 后台操控](http://www.syedrezaali.com/#/ccrmamodulations/)<br>
+  [Boundary Functions by Scott Snibbe](https://www.snibbe.com/digital-art#/projects/interactive/boundaryfunctions/)<br>
 
 - 不同互动编程软件架构
 
-- Processing & p5.js
+  Processing & p5.js
 
-- openFrameworks, Cinder
+  [openFrameworks](http://openframeworks.cc/), [Cinder](https://libcinder.org/)
 
-- Max/msp 数据流互动媒体编程
+  Max/msp 数据流互动媒体编程
 
 - 硬件编程， Arduino， 与互动编程如何结合与创造
 
@@ -70,14 +73,19 @@
 **P5.js, 本课程教学语言与应用框架介绍**
 
 - P5.js, 与广泛HTML, CSS,和 JavaScript的关系
+  [a short journey 动态编程 threejs](http://www.ashortjourney.com/)
 
 - P5 online editor vs 本地端
 
 1. 线上编辑器操作示范
 
 2. 线下编辑器操作，其他text editor
+  [英语版如何运行一个本地服务器](https://github.com/lmccart/itp-creative-js/wiki/SimpleHTTPServer)
 
 - 如何应用，嵌入网站，服务器端与本地端的基本区别
+```
+<iframe src="http://your_code_url" width="100%" height="700" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+```
 
 
 **编程内容教学**
@@ -88,8 +96,8 @@
 
 - 基本绘画指令
 
-- Color, shape, canvas， 颜色， 形状和网页画布 
-- P5.js reference page 
+- Color, shape, canvas， 颜色， 形状和网页画布
+- P5.js reference page
 
 <br>
 
@@ -119,16 +127,16 @@
 
 <br>
 
-### 2. 基于编程语言的创意互动视觉 － 01 
+### 2. 基于编程语言的创意互动视觉 － 01
 
-##### 本次课程目标： 
+##### 本次课程目标：
 
 ##### 基于更多功能的多层次视觉创造
 
 ##### 第一个互动动态创作
 
 <br>
-  
+
 **作业分享，分析与答疑**
 
 **编程内容教学**
@@ -185,7 +193,7 @@
 
 ##### 创作内容层次更加丰富
 
-  
+
 <br>
 
 **作业分享，分析与答疑**
@@ -228,7 +236,7 @@
 
 <br>
 
-**本次作业** 
+**本次作业**
 
 **例子**
 
@@ -258,8 +266,8 @@
 
 ##### 创作内容更加自然
 
-<br> 
-  
+<br>
+
 
 **作业分享，分析与答疑**
 
@@ -300,7 +308,7 @@
 
 
 
-### 5.基于编程语言的创意互动视觉 － 04 
+### 5.基于编程语言的创意互动视觉 － 04
 
 ##### 课程目标：
 
@@ -311,7 +319,7 @@
 ##### 基础编程语句教学最后一个课时
 
 <br>
-  
+
 
 **作业分享，分析与答疑**
 
@@ -337,7 +345,7 @@
 
 	力的叠加 (weighting )
 
-**本次作业** 
+**本次作业**
 
 **例子**
 
@@ -361,7 +369,7 @@
 
 ### 6.画布之外
 
-##### 课程目标： 
+##### 课程目标：
 
 ##### 前期内容整理回顾
 
@@ -370,7 +378,7 @@
 ##### 比网页更广阔的创作空间（projection mapping 简介）
 
 <br>
-  
+
 
 **前期基础编程概念回顾**
 
@@ -408,7 +416,7 @@
 
 	[Second Story Particle System](https://secondstory.com/work/cox-media-group-cox-discovery-center)
 
-  
+
 <br>
 
 ***
@@ -426,8 +434,8 @@
 
 ##### 用数据进行创作
 
-<br> 
-  
+<br>
+
 
 **数据艺术作品分享**
 
@@ -449,20 +457,20 @@
 
 - 一些有用的api网站
 
-- OpenWeatherMap - [http://openweathermap.org/API](http://openweathermap.org/API) 
-- NYTimes - [http://developer.nytimes.com/](http://developer.nytimes.com/) 
-- The Guardian - [http://www.theguardian.com/open-platform](http://www.theguardian.com/open-platform) 
-- flickr - [https://www.flickr.com/services/api/](https://www.flickr.com/services/api/) 
-- MTA - [http://web.mta.info/developers/developer-data-terms.html#data](http://web.mta.info/developers/developer-data-terms.html#data) 
-- Foursquare - [https://developer.foursquare.com/](https://developer.foursquare.com/) 
-- Sunlight Foundation - [http://sunlightfoundation.com/api/](http://sunlightfoundation.com/api/) 
-- [http://en.wikipedia.org/wiki/List_of_open_APIs](http://en.wikipedia.org/wiki/List_of_open_APIs) 
-- [https://gist.github.com/afeld/4952991](https://gist.github.com/afeld/4952991) 
-  
-**本次作业** 
+- OpenWeatherMap - [http://openweathermap.org/API](http://openweathermap.org/API)
+- NYTimes - [http://developer.nytimes.com/](http://developer.nytimes.com/)
+- The Guardian - [http://www.theguardian.com/open-platform](http://www.theguardian.com/open-platform)
+- flickr - [https://www.flickr.com/services/api/](https://www.flickr.com/services/api/)
+- MTA - [http://web.mta.info/developers/developer-data-terms.html#data](http://web.mta.info/developers/developer-data-terms.html#data)
+- Foursquare - [https://developer.foursquare.com/](https://developer.foursquare.com/)
+- Sunlight Foundation - [http://sunlightfoundation.com/api/](http://sunlightfoundation.com/api/)
+- [http://en.wikipedia.org/wiki/List_of_open_APIs](http://en.wikipedia.org/wiki/List_of_open_APIs)
+- [https://gist.github.com/afeld/4952991](https://gist.github.com/afeld/4952991)
+
+**本次作业**
 **例子**
 
-  
+
 <br>
 
 ***
@@ -477,7 +485,7 @@
 ##### 用视频和实时图像捕捉还有声音进行创造
 
 <br>  
-  
+
 
 **作业分享，分析与答疑**
 
@@ -522,14 +530,14 @@
 
 - 简介max/msp
 
-**本次作业** 
+**本次作业**
 
 **例子**
 
 Final project idea， 最终作品概念
 
 
-  
+
 <br>
 
 ***
@@ -539,14 +547,14 @@ Final project idea， 最终作品概念
 
 ### 9. 移动端（手机）创作
 
-##### 课程目标： 
+##### 课程目标：
 
 ##### 了解基本用移动端打开前期创作成果的方法
 
 ##### 针对移动端进行具体创作
 
 <br>
-  
+
 
 **作业分享，分析与答疑**
 
@@ -556,7 +564,7 @@ Final project idea， 最终作品概念
 
 	[Using viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
 
-**本次作业** 
+**本次作业**
 **例子**
 
 以下例子用手机打开链接
@@ -571,7 +579,7 @@ Final project idea， 最终作品概念
 
 [设备摇晃](http://alpha.editor.p5js.org/projects/rkmqU2Jee)
 
-  
+
 
 [重力球](http://alpha.editor.p5js.org/projects/Hylv2b_xl)
 
@@ -589,8 +597,8 @@ Final project idea， 最终作品概念
 
 开始创作的过程遇到的问题
 
-  
-  
+
+
 <br>
 
 ***
@@ -600,14 +608,14 @@ Final project idea， 最终作品概念
 
 ### 10.P5之外更广的世界
 
-##### 课程目标： 
+##### 课程目标：
 
 ##### 浅浅了解其他新媒体创作工具
 
 ##### 对以后的创作有更多种类的想法与选择
 
 <br>  
-  
+
 
 - Pixel
 
@@ -621,7 +629,7 @@ Final project idea， 最终作品概念
 
 	作品分享
 
-- Kinect 基本介绍，kinectron 
+- Kinect 基本介绍，kinectron
 
 - 其他JS Libraries
 
@@ -649,10 +657,9 @@ Final project idea， 最终作品概念
 
 [自然月球互动](http://www.caiyuli.com/work/nature-geometry/)
 
-  
+
 <br>
 
 ***
 
 <br>
-
