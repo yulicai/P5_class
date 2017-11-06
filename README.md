@@ -96,13 +96,13 @@
 
 - 基本绘画指令
   - color and background 颜色和背景<br>
-    background()
-    fill()
-    stroke()
+    background()<br>
+    fill()<br>
+    stroke()<br>
   - shaping 形状<br>
-    ellipse, line, point, rect
-    bezier, curve
-    beginShape, endShape, vertex
+    ellipse, line, point, rect<br>
+    bezier, curve<br>
+    beginShape, endShape, vertex<br>
 - Color, shape, canvas， 颜色， 形状和网页画布<br>
 - 更多参见，P5.js reference page
 
@@ -174,6 +174,7 @@
 #### 要求
 1. 作品每一次重新渲染，都是不一样的效果。
 2. 运用到鼠标的互动。
+
 **例子**
 
 [Bouncing ball](http://alpha.editor.p5js.org/projects/BJKWv5Tn)
