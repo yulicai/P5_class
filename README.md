@@ -147,7 +147,7 @@
 
 <br>
 
-**作业分享，分析与答疑**
+**回顾**
 
 **编程内容教学**
 
@@ -175,12 +175,22 @@
 
 <br>
 
+**好玩的示例 inspiration**
+[true/false by onformative](http://www.onformative.com/work/true-false)<br>
+
+[As we are](https://www.matthewmohr.com/as-we-are/a9welr27zmvxadzbash88who4p378v) 
+[video as we are](https://vimeo.com/237119645)
+
 **本次作业**
 
 1. 作品每一次重新渲染，都是不一样的效果。
 2. 运用到鼠标的互动。
 3. 作品中有一些动态的元素，用random,或者translation来实现。
 4. 结合第一次作业肖像画一起做。
+
+<br>
+
+__两次作业提交成一个，week1作业，包括代码和图文两种形式。__
 
 **例子**
 
@@ -536,6 +546,7 @@
 
 	[Sound panning](https://p5js.org/examples/sound-pan-sound.html)
 
+	[dot piano by Yotam Mann and Alexander Chen ](https://dotpiano.com/)
 
 - 图像
 
