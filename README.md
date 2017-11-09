@@ -163,9 +163,8 @@
 
 	[Circle rollover](http://alpha.editor.p5js.org/projects/H1kCSqah)
 
-- Boolean expressions, 布尔函数
+- Boolean expressions, 布尔数值
 
-- If statement
 
 - Else, else if, AND, OR
 
@@ -176,9 +175,10 @@
 <br>
 
 **好玩的示例 inspiration**
+
 [true/false by onformative](http://www.onformative.com/work/true-false)<br>
 
-[As we are](https://www.matthewmohr.com/as-we-are/a9welr27zmvxadzbash88who4p378v) 
+[As we are](https://www.matthewmohr.com/as-we-are/a9welr27zmvxadzbash88who4p378v) -
 [video as we are](https://vimeo.com/237119645)
 
 **本次作业**
@@ -188,9 +188,10 @@
 3. 作品中有一些动态的元素，用random,或者translation来实现。
 4. 结合第一次作业肖像画一起做。
 
-<br>
 
 __两次作业提交成一个，week1作业，包括代码和图文两种形式。__
+
+<br>
 
 **例子**
 
