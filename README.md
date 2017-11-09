@@ -89,13 +89,10 @@
 
 1. 线上编辑器操作示范
 
-2. 线下编辑器操作，其他text editor<br>
+2. 线下编辑器是什么，其他text editor，日后可能会用到<br>
   [英语版如何运行一个本地服务器](https://github.com/lmccart/itp-creative-js/wiki/SimpleHTTPServer)
 
-- 如何应用，嵌入网站，服务器端与本地端的基本区别
-```
-<iframe src="http://your_code_url" width="100%" height="700" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-```
+
 
 
 **编程内容教学**
@@ -285,6 +282,11 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 - 递归函数 recursive function
 
 	[重复递归圆绘画](http://alpha.editor.p5js.org/projects/Hyevi8ct6)
+
+- 如何应用，嵌入网站，服务器端与本地端的基本区别
+```
+<iframe src="http://your_code_url" width="100%" height="700" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+```
 
 <br>
 
