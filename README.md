@@ -94,6 +94,8 @@
 
 - Setup () 和 draw（）
 
+- 变量 variable
+
 - 基本绘画指令
   - color and background 颜色和背景<br>
     background()<br>
@@ -109,6 +111,7 @@
 <br>
 
 **本次作业**
+
 1. 肖像画<br>
 	运用所学的基本绘画编程指令，画一个肖像画，自画像或者是他人肖像画<br>
 	要求： 有创意，追求视觉效果<br>
@@ -148,9 +151,9 @@
 
 **编程内容教学**
 
-- 变量 Variables: mouseX, mouseY, keyPressed()
-
 - random()，map()
+
+- 互动元素 mouseX, mouseY, keyPressed()
 
 - Transformation 矩阵变化
 
@@ -171,9 +174,12 @@
 	[Roll Over With Fade](http://alpha.editor.p5js.org/projects/SkPsHcph) (else if)
 
 **本次作业**
+
 #### 要求
 1. 作品每一次重新渲染，都是不一样的效果。
 2. 运用到鼠标的互动。
+3. 作品中有一些动态的元素，用random,或者translation来实现。
+4. 结合第一次作业肖像画，一起做。
 
 **例子**
 
