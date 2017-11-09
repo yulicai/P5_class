@@ -173,13 +173,14 @@
 
 	[Roll Over With Fade](http://alpha.editor.p5js.org/projects/SkPsHcph) (else if)
 
+<br>
+
 **本次作业**
 
-#### 要求
 1. 作品每一次重新渲染，都是不一样的效果。
 2. 运用到鼠标的互动。
 3. 作品中有一些动态的元素，用random,或者translation来实现。
-4. 结合第一次作业肖像画，一起做。
+4. 结合第一次作业肖像画一起做。
 
 **例子**
 
