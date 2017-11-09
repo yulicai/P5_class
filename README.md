@@ -7,6 +7,7 @@
 1. [p5官方网站](https://p5js.org/)
 2. [p5线上编辑器](https://alpha.editor.p5js.org/)
 3. [p5 Reference 指令参考](https://p5js.org/reference/)
+4. yuli.cai@nyu.edu
 
 ## 课程创意案例
 1. [Constellation](https://www.openprocessing.org/sketch/434620)
@@ -151,17 +152,26 @@
 
 **编程内容教学**
 
-- random()，map()
+- random()， 随机
+	[随机圆](http://alpha.editor.p5js.org/yulicai/sketches/Bk3N8RZJM)
+
+- map(), 映射
+	[鼠标互动映射](http://alpha.editor.p5js.org/yulicai/sketches/S1VOURW1G)
+
 
 - 互动元素 mouseX, mouseY, keyPressed()
 
-- Transformation 矩阵变化
+- translate() 位移
+	[translate 位移](http://alpha.editor.p5js.org/yulicai/sketches/HydB8kMkz)
 
-- translate(), rotate(), scale(), push(), pop()
+- rotate(), scale()
+
+- push(), pop() 压弹
+	[push pop](http://alpha.editor.p5js.org/yulicai/sketches/rJUzwyGkG)
+
 
 - Conditional Statement 条件语句
-
-	[Circle rollover](http://alpha.editor.p5js.org/projects/H1kCSqah)
+	[Circle rollover](http://alpha.editor.p5js.org/yulicai/sketches/r1hwDyG1f)
 
 - Boolean expressions, 布尔数值
 
