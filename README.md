@@ -9,13 +9,12 @@
 3. [p5 Reference 指令参考](https://p5js.org/reference/)
 4. yuli.cai@nyu.edu
 
-<br>
 
 ***
 
-<br>
 
 [Dan Shiffman](http://shiffman.net/)
+
 [Lauren Mccarthy](http://lauren-mccarthy.com/)
 
 ## 课程创意案例
