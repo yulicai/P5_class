@@ -9,12 +9,22 @@
 3. [p5 Reference 指令参考](https://p5js.org/reference/)
 4. yuli.cai@nyu.edu
 
+<br>
+
+***
+
+<br>
+
+[Dan Shiffman](http://shiffman.net/)
+[Lauren Mccarthy](http://lauren-mccarthy.com/)
+
 ## 课程创意案例
 1. [Constellation](https://www.openprocessing.org/sketch/434620)
 2. [艺术家Reza](http://www.syedrezaali.com/)
 
 ## 商业案例/好玩的studio
 1. [Art + Com](https://artcom.de/en/)
+2. [Jason Bruges](http://www.jasonbruges.com/art/)
 
 
 ## 课程教案 Syllabus
@@ -162,15 +172,18 @@
 - 互动元素 mouseX, mouseY, keyPressed()
 
 - translate() 位移
+
 	[translate 位移](http://alpha.editor.p5js.org/yulicai/sketches/HydB8kMkz)
 
 - rotate(), scale()
 
 - push(), pop() 压弹
+
 	[push pop](http://alpha.editor.p5js.org/yulicai/sketches/rJUzwyGkG)
 
 
 - Conditional Statement 条件语句
+
 	[Circle rollover](http://alpha.editor.p5js.org/yulicai/sketches/r1hwDyG1f)
 
 - Boolean expressions, 布尔数值
@@ -181,6 +194,8 @@
 	[Button Holddown](http://alpha.editor.p5js.org/projects/S16-H9pn)(live vj) (AND)
 
 	[Roll Over With Fade](http://alpha.editor.p5js.org/projects/SkPsHcph) (else if)
+
+	[Bouncing ball](http://alpha.editor.p5js.org/projects/BJKWv5Tn)
 
 <br>
 
@@ -205,7 +220,7 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 
 **例子**
 
-[Bouncing ball](http://alpha.editor.p5js.org/projects/BJKWv5Tn)
+
 
 [白日梦女孩](http://alpha.editor.p5js.org/Chelsea-chenchen/sketches/r1_z0kysb)
 
