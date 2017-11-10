@@ -99,20 +99,33 @@
 
 - 第一个程序！
 
+- 代码注释 comment //
+
 - Setup () 和 draw（）
 
-- 变量 variable
+- js文件链接到html文件以及两者关系
+
+- 变量 variable, var 和 let
 
 - 基本绘画指令
   - color and background 颜色和背景<br>
-    background()<br>
-    fill()<br>
-    stroke()<br>
+    background() 背景<br>
+    fill() 填充<br> 
+    stroke() 描边<br>
+
+    [stroke fill 描边和填充](http://alpha.editor.p5js.org/yulicai/sketches/B1qlERbkM) <br>
+
   - shaping 形状<br>
     ellipse, line, point, rect<br>
+
+    [画多个圆](http://alpha.editor.p5js.org/yulicai/sketches/H1DtV0b1f)<br>
+
     bezier, curve<br>
     beginShape, endShape, vertex<br>
-- Color, shape, canvas， 颜色， 形状和网页画布<br>
+
+    [其他形状示例](http://alpha.editor.p5js.org/yulicai/sketches/rkQ2NCbkz)<br>
+
+
 - 更多参见，P5.js reference page
 
 <br>
