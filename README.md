@@ -180,7 +180,7 @@
 	[鼠标互动映射](http://alpha.editor.p5js.org/yulicai/sketches/S1VOURW1G)
 
 
-- 互动元素 mouseX, mouseY, keyPressed()
+- 互动元素 mouseX, mouseY
 
 - translate() 位移
 
@@ -196,6 +196,10 @@
 - Conditional Statement 条件语句
 
 	[Circle rollover](http://alpha.editor.p5js.org/yulicai/sketches/r1hwDyG1f)
+
+-  keyPressed()按键盘
+	
+	[keyPressed 示例](http://alpha.editor.p5js.org/yulicai/sketches/rJ394nX1M)
 
 - Boolean expressions, 布尔数值
 
