@@ -371,7 +371,7 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 - 数学的概念在编程中的作用
 	%，斜线，10个列例子中的if statement（随机概率)
 
-－ 对象（object) 介绍
+- 对象（object) 介绍
 
 	[Bouncing ball with function & gravity](http://alpha.editor.p5js.org/projects/H1Oq4qta)
 
