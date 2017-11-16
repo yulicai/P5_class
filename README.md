@@ -9,6 +9,10 @@
 3. [p5 Reference 指令参考](https://p5js.org/reference/)
 4. yuli.cai@nyu.edu
 
+#### 其他资源
+1. [CMU Interactivity & Computation课程纲要](http://cmuems.com/2016/60212/)
+
+
 
 ***
 
@@ -266,23 +270,46 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 
 **作业分享，分析与答疑**
 
+**上次课程内容回顾**
+
+**案例分享**
+
+[John Maeda 12 clocks](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)
+
+<br>
+除了图形化的思考之外... <br>
+
+[chino kim, Internet Interventions](https://ch1n00.tumblr.com/)
+
+<br>
+
+[chino kim](http://chino.kim/)
+
+
 **编程内容教学**
 
 - Loops 循环语句
 
 - While and for loop
+	
+	[基本循环，从while到for](https://alpha.editor.p5js.org/yulicai/sketches/Hk8NOUs1f) <br>
 
-	[10个列](http://alpha.editor.p5js.org/mimi/sketches/BJG29y1sb)
+	[10个列](http://alpha.editor.p5js.org/yulicai/sketches/B17AokeT-)
 
 - Nested loops 叠加循环 （矩阵画图）
 
-- 函数的概念，Calling vs. defining 定义一个函数
+	[格子阵列](https://alpha.editor.p5js.org/yulicai/sketches/Byvza_NkG)<br>
 
-	setup(), draw()本身就是函数
+	[点阵列霓虹灯](https://alpha.editor.p5js.org/)
+
+- 函数的概念，Calling vs. defining 使用 vs. 定义一个函数
+
+	ellipse(), setup(), draw()本身就是函数
+
 
 - 模块化 Modularity
 
-	[Bouncing ball with function & gravity](http://alpha.editor.p5js.org/projects/H1Oq4qta)
+	[easing淡入淡出在函数中](https://alpha.editor.p5js.org/yulicai/sketches/S1RRdUoyf)
 
 - 参数 arguments and parameters
 
@@ -290,26 +317,18 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 
 	[Dice w/ functions example](http://alpha.editor.p5js.org/projects/S1R44qtT)
 
+
 - 重复运用 re-usability
 
-	[画不同的机器人](http://alpha.editor.p5js.org/projects/rylf4S5K6)
+	[画不同的机器人](https://alpha.editor.p5js.org/yulicai/sketches/r1BwFUjJf)
 
-- 函数返回参数种类 return type
 
-	[改进p5 distance函数功能示例](http://alpha.editor.p5js.org/projects/HJgR7UcKa)
 
-- 递归函数 recursive function
-
-	[重复递归圆绘画](http://alpha.editor.p5js.org/projects/Hyevi8ct6)
-
-- 如何应用，嵌入网站，服务器端与本地端的基本区别
-```
-<iframe src="http://your_code_url" width="100%" height="700" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-```
-
-<br>
 
 **本次作业**
+运用时间的概念，创作一个作品。时间可以是抽象化的线性时间，比如随着时间变化，作品会有不同的生长方向/变化，也可以是具体化的几分几秒体现在图形或者文字上，比如直接的文字图形化。满足以下两个要求之一。<br>
+1. 重复图案华，用if statement或者用for循环实现。
+2. 淡入淡出的效果。
 
 **例子**
 
@@ -319,7 +338,7 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 
 [点光源](http://alpha.editor.p5js.org/yulicai/sketches/S1vPRJl6-)
 
-[淡入绘画](http://alpha.editor.p5js.org/haiyiii/sketches/SkJlXK7i-)
+[淡入绘画](https://alpha.editor.p5js.org/yulicai/sketches/S1RRdUoyf)
 
 [鼠标点击递归绘画](http://alpha.editor.p5js.org/Simonmarqvard/sketches/BkLTb1OsW)
 
@@ -346,7 +365,22 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 
 **编程内容教学**
 
+- 数学的概念在编程中的作用
+	%，斜线，10个列例子中的if statement（随机概率)
+
 － 对象（object) 介绍
+
+	[Bouncing ball with function & gravity](http://alpha.editor.p5js.org/projects/H1Oq4qta)
+
+
+- 函数返回参数种类 return type
+
+	[改进p5 distance函数功能示例](http://alpha.editor.p5js.org/projects/HJgR7UcKa)
+
+- 递归函数 recursive function
+
+	[重复递归圆绘画](http://alpha.editor.p5js.org/projects/Hyevi8ct6)
+
 
 － 数组 (array）介绍
 
@@ -417,6 +451,14 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 	转向力(steering force)
 
 	力的叠加 (weighting )
+
+
+- 如何应用，嵌入网站，服务器端与本地端的基本区别
+```
+<iframe src="http://your_code_url" width="100%" height="700" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+```
+
+<br>
 
 **本次作业**
 
