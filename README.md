@@ -276,12 +276,9 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 
 [John Maeda 12 clocks](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)
 
-<br>
 除了图形化的思考之外... <br>
 
 [chino kim, Internet Interventions](https://ch1n00.tumblr.com/)
-
-<br>
 
 [chino kim](http://chino.kim/)
 
@@ -326,9 +323,13 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 
 
 **本次作业**
+
+<br>
 运用时间的概念，创作一个作品。时间可以是抽象化的线性时间，比如随着时间变化，作品会有不同的生长方向/变化，也可以是具体化的几分几秒体现在图形或者文字上，比如直接的文字图形化。满足以下两个要求之一。<br>
 1. 重复图案华，用if statement或者用for循环实现。
 2. 淡入淡出的效果。
+
+<br>
 
 **例子**
 
