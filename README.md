@@ -401,6 +401,12 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 
 - 数组和for循环一起运用
 
+<br>
+
+
+**本次作业**
+
+
 **例子**
 
 [水墨画笔](http://alpha.editor.p5js.org/yulicai/sketches/rJd3C1xpW)
