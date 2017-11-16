@@ -462,12 +462,7 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 	力的叠加 (weighting )
 
 
-- 如何应用，嵌入网站，服务器端与本地端的基本区别
-```
-<iframe src="http://your_code_url" width="100%" height="700" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-```
 
-<br>
 
 **本次作业**
 
@@ -498,6 +493,15 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 ##### 前期内容整理回顾
 
 ##### 理解运用回调函数（call back function)
+
+- 线下编辑器
+
+- 如何应用，嵌入网站，服务器端与本地端的基本区别
+```
+<iframe src="http://your_code_url" width="100%" height="700" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+```
+
+<br>
 
 ##### 比网页更广阔的创作空间（projection mapping 简介）
 
