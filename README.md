@@ -276,6 +276,8 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 
 [John Maeda 12 clocks](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)
 
+[Dan Shiffman 时钟](https://alpha.editor.p5js.org/yulicai/sketches/BJX-QSj1z)
+
 除了图形化的思考之外... <br>
 
 [chino kim, Internet Interventions](https://ch1n00.tumblr.com/)
