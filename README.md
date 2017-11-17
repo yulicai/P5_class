@@ -380,7 +380,7 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 
 - 函数返回参数种类 return type
 
-	[改进p5 distance函数功能示例](http://alpha.editor.p5js.org/projects/HJgR7UcKa)
+	[改进p5 distance函数功能示例](http://alpha.editor.p5js.org/yulicai/sketches/H12z0ojJf)
 
 - 递归函数 recursive function
 
@@ -389,24 +389,46 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 
 － 数组 (array）介绍
 
-- 如何定义一个数组，数组的不同定义方法
+- 如何定义一个数组，数组的不同定义方法<br>
+	1. 数组的序列
+	2. [点名例子](http://alpha.editor.p5js.org/yulicai/sketches/Sk00FvCRZ)
 
 - 数组的基本元素，length
 
-- 一个数组的objects
 
-	.push() .splice()
+- .push() 
 
 	点击鼠标，为数组增加一个新的元素
+	[例子push](https://alpha.editor.p5js.org/yulicai/sketches/Hy9CP2sJG)
 
 	数组超过一定元素数量，就去掉一个，保证运行速度
+
+- .splice()
+	[例子生命周期](https://alpha.editor.p5js.org/yulicai/sketches/Hydln3jJz)
 
 - 数组和for循环一起运用
 
 <br>
 
+**案例分享**
+
+[3d点阵纪录片](https://www.kickstarter.com/projects/668998823/asad-and-assad)
+
+[Current Time 前卫橱窗概念](http://www.angelaitp.com/2016/12/02/pop-up-window-display/)
+
 
 **本次作业**
+
+一个有生命的**物种**<br>
+根据我们这两天学的知识，object, function, for循环，创造一个有生命的物种，同属于这个物种的东西同源同属性，但是有着稍微不同的形态或者状态。<br>
+
+作业目的与思考：
+- 目的：
+
+	1. 思考为什么有这么多种不同的方式写同一个效果的代码。
+	2. 熟练掌握object, function, for, 为了衔接下一节课的内容
+	3. 思考其中可以改变的变量，如何在屏幕之外交互，为最后的作品做准备。
+
 
 
 **例子**
