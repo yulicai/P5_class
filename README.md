@@ -399,11 +399,13 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 - .push() 
 
 	点击鼠标，为数组增加一个新的元素
+
 	[例子push](https://alpha.editor.p5js.org/yulicai/sketches/Hy9CP2sJG)
 
 	数组超过一定元素数量，就去掉一个，保证运行速度
 
 - .splice()
+
 	[例子生命周期](https://alpha.editor.p5js.org/yulicai/sketches/Hydln3jJz)
 
 - 数组和for循环一起运用
