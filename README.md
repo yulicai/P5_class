@@ -373,6 +373,8 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 
 - 对象（object) 介绍
 
+	[基本对象例子](https://alpha.editor.p5js.org/yulicai/sketches/HyYladj1z)
+
 	[Bouncing ball with function & gravity](http://alpha.editor.p5js.org/projects/H1Oq4qta)
 
 
