@@ -560,6 +560,12 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 ##### 理解运用回调函数（call back function)
 
 - 线下编辑器
+	1. sublime
+	2. atom
+	3. brackets
+	4. ...
+	
+	[本地服务器 设置指南](https://github.com/processing/p5.js/wiki/Local-server)
 
 - 如何应用，嵌入网站，服务器端与本地端的基本区别
 ```
