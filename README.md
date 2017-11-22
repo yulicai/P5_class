@@ -564,7 +564,7 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 	2. atom
 	3. brackets
 	4. ...
-	
+
 	[本地服务器 设置指南](https://github.com/processing/p5.js/wiki/Local-server)
 
 - 如何应用，嵌入网站，服务器端与本地端的基本区别
@@ -593,7 +593,21 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 
 	Projection Mapping 简介
 
+- 商业案例
+
+	[portal-projection mapping](https://vimeo.com/93108457)
+
+	[全新字体设计方法](https://vimeo.com/16519944)
+
+	[Second Story Particle System](https://secondstory.com/work/cox-media-group-cox-discovery-center)
+
+
+<br>
+
 **本次作业**
+结合昨天的作业，总结前面的，做一个完整的由概念引导的作业。为了final大作业做准备。
+
+<br>
 
 **例子**
 
@@ -607,13 +621,7 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 
 	[自然画线](https://p5js.org/examples/hello-p5-drawing.html)
 
-- 商业案例
 
-	[portal-projection mapping](https://vimeo.com/93108457)
-
-	[全新字体设计方法](https://vimeo.com/16519944)
-
-	[Second Story Particle System](https://secondstory.com/work/cox-media-group-cox-discovery-center)
 
 
 <br>
