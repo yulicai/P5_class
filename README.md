@@ -472,16 +472,30 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 **编程内容教学**
 
 - 类的基础概念，有什么左右，如何写一个类，es6
+	
+	[基础类的声明例子](https://alpha.editor.p5js.org/yulicai/sketches/SJ72Zv7eG)
+
+	[类的声明-参数-单独文件](https://alpha.editor.p5js.org/yulicai/sketches/HkRhrDmlz)
 
 	[两个重力球，共用同一个类](http://alpha.editor.p5js.org/icm/sketches/BkyUQp1nb)
 
 - 粒子系统，particle system
 
 - Nature of Code, 速度，加速度，力的作用
+	
+	[Nature of Code官方网站](http://natureofcode.com/book/introduction/)
 
 - Vector 向量的基本讲解，为什么有用
+	
+	1. createVector([x],[y],[z]) <br>
+	2. p5.Vector是一个单独的类，内部有向量的基本运算，加减乘除标准化等等。<br>
 
 	基本速度与加速度运用在粒子系统中
+
+	[p5 vector参考](https://p5js.org/reference/#/p5.Vector)
+
+	[鼠标作用力-mover](https://alpha.editor.p5js.org/yulicai/sketches/HyF9-OXlf)
+
 
 - 力的运用
 
