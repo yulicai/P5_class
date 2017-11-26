@@ -567,6 +567,26 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 
 	[本地服务器 设置指南](https://github.com/processing/p5.js/wiki/Local-server)
 
+
+在终端中输入:
+
+```
+cd 当前文件夹路径（鼠标拖入文件夹）
+
+```
+
+```
+python -m SimpleHTTPServer
+```
+
+如果你是python 3
+```
+python -m http.server
+```
+
+在浏览器中输入地址 `http://localhost:8000` .
+
+
 - 如何应用，嵌入网站，服务器端与本地端的基本区别
 ```
 <iframe src="http://your_code_url" width="100%" height="700" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
