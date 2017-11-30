@@ -683,7 +683,25 @@ python -m http.server
 
 - 个人数据的记录，自己的api
 
+- 格式化json 工具
+	
+	**JSON Formatter** chrome extension
+
 - 一些有用的api网站
+
+**中文**
+
+- [知乎 -想写个 App 练手，有什么有趣的 API 接口推荐吗？](https://www.zhihu.com/question/39479153)
+
+- 百度音乐
+
+	[百度音乐使用介绍](https://fddcn.cn/music-api-wang-yi-bai-du.html)
+
+	[百度音乐api返回示例](http://tingapi.ting.baidu.com/v1/restserver/ting?method=baidu.ting.song.play&songid=289109745)
+
+	[使用例子cnblogs](http://www.cnblogs.com/youlixishi/p/6132025.html)
+
+- [新浪微博api](http://open.weibo.com/wiki/API)
 
 - OpenWeatherMap - [http://openweathermap.org/API](http://openweathermap.org/API)
 - NYTimes - [http://developer.nytimes.com/](http://developer.nytimes.com/)
