@@ -667,19 +667,30 @@ python -m http.server
 
 **数据艺术作品分享**
 
+[wipawe call me adele](https://medium.com/@wipaweeeeee/call-me-adele-f37162b6ffe5)
+
+[windmap](http://hint.fm/wind/)
+
+[非数据例子-by yifan chen](http://alpha.editor.p5js.org/yulicai/sketches/SJdQurhxG)
+
+
 **编程内容教学**
 
 - 不同数据文件类型
 
-	JSON, AJAX, XML
+	JSON, XML, CSV, TEXT FILE, PDF, API..
 
 	[JSON 格式化](https://jsonformatter.curiousconcept.com/)
 
 	[Loading external data with p5.js](https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
 
+- 简单json格式调用
+
+	[花的示例_基础json](https://alpha.editor.p5js.org/yulicai/sketches/BJ0-vV0ez)
+
 - 什么是API， 有什么用
 
-	Openweather 做示例
+	[giphy api示例](https://alpha.editor.p5js.org/yulicai/sketches/SkFAPEReG)
 
 - 个人数据的记录，自己的api
 
@@ -701,7 +712,15 @@ python -m http.server
 
 	[使用例子cnblogs](http://www.cnblogs.com/youlixishi/p/6132025.html)
 
+
 - [新浪微博api](http://open.weibo.com/wiki/API)
+
+- [红楼梦api](http://47.100.22.113:25555/api/cndbpedia/ment2ent?q=%E7%BA%A2%E6%A5%BC%E6%A2%A6)
+
+
+**英语**
+
+- [英语词汇数据大全github corpora](https://github.com/dariusk/corpora)
 
 - OpenWeatherMap - [http://openweathermap.org/API](http://openweathermap.org/API)
 - NYTimes - [http://developer.nytimes.com/](http://developer.nytimes.com/)
@@ -713,9 +732,14 @@ python -m http.server
 - [http://en.wikipedia.org/wiki/List_of_open_APIs](http://en.wikipedia.org/wiki/List_of_open_APIs)
 - [https://gist.github.com/afeld/4952991](https://gist.github.com/afeld/4952991)
 
-**本次作业**
-**例子**
+<br>
 
+**本次作业**
+
+运用数据，做一个可视化作品。
+	要求： 至少用到以下其中之一
+	1. 用现成的api
+	2. 用自己的数据，自己手动创造json文件，在此基础上再进行创作
 
 <br>
 
