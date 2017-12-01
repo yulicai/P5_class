@@ -671,6 +671,8 @@ python -m http.server
 
 [windmap](http://hint.fm/wind/)
 
+[Ying He数据可视化](http://heyinging.com/DATAVIZ)
+
 [非数据例子-by yifan chen](http://alpha.editor.p5js.org/yulicai/sketches/SJdQurhxG)
 
 
