@@ -43,6 +43,8 @@ function draw() {
             movers[i].applyForce(mouseForce);
         }
     }
+
+    
     // 对每一个mover进行操控， 更新，显示
     for (let i = 0; i < movers.length; i++) {
         movers[i].flock(movers);
@@ -56,3 +58,10 @@ function keyPressed() {
     // 每当敲击一次键盘，吸引模式就转换
     attracting = !attracting;
 }
+
+
+
+
+
+
+

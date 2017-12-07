@@ -96,7 +96,7 @@ class Boid {
     //这个函数的参数是一个群体，
     separate(boids) {
       // 只要近身25像素的距离，就开始有分离力
-        let desiredseparation = 50.0;
+        let desiredseparation = 100.0;
         let steer = createVector(0, 0);
         let count = 0;
         // 对于每一个在系统中的boid,检查他们是不是相隔太近

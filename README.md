@@ -116,7 +116,7 @@
 - 基本绘画指令
   - color and background 颜色和背景<br>
     background() 背景<br>
-    fill() 填充<br> 
+    fill() 填充<br>
     stroke() 描边<br>
 
     [stroke fill 描边和填充](http://alpha.editor.p5js.org/yulicai/sketches/B1qlERbkM) <br>
@@ -204,7 +204,7 @@
 	[Circle rollover](http://alpha.editor.p5js.org/yulicai/sketches/r1hwDyG1f)
 
 -  keyPressed()按键盘
-	
+
 	[keyPressed 示例](http://alpha.editor.p5js.org/yulicai/sketches/rJ394nX1M)
 
 - Boolean expressions, 布尔数值
@@ -293,7 +293,7 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 - Loops 循环语句
 
 - While and for loop
-	
+
 	[基本循环，从while到for](https://alpha.editor.p5js.org/yulicai/sketches/Hk8NOUs1f) <br>
 
 	[10个列](http://alpha.editor.p5js.org/yulicai/sketches/B17AokeT-)
@@ -400,7 +400,7 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 - 数组的基本元素，length
 
 
-- .push() 
+- .push()
 
 	点击鼠标，为数组增加一个新的元素
 
@@ -474,7 +474,7 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 **编程内容教学**
 
 - 类的基础概念，有什么左右，如何写一个类，es6
-	
+
 	[基础类的声明例子](https://alpha.editor.p5js.org/yulicai/sketches/SJ72Zv7eG)
 
 	[类的声明-参数-单独文件](https://alpha.editor.p5js.org/yulicai/sketches/HkRhrDmlz)
@@ -484,11 +484,11 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 - 粒子系统，particle system
 
 - Nature of Code, 速度，加速度，力的作用
-	
+
 	[Nature of Code官方网站](http://natureofcode.com/book/introduction/)
 
 - Vector 向量的基本讲解，为什么有用
-	
+
 	1. createVector([x],[y],[z]) <br>
 	2. p5.Vector是一个单独的类，内部有向量的基本运算，加减乘除标准化等等。<br>
 
@@ -697,7 +697,7 @@ python -m http.server
 - 个人数据的记录，自己的api
 
 - 格式化json 工具
-	
+
 	**JSON Formatter** chrome extension
 
 - 一些有用的api网站
@@ -763,9 +763,9 @@ python -m http.server
 
 **编程内容教学**
 
-- 视频和实施捕捉
+- loadImage()功能结合之前学过的编程内容
 
-	[github例子链接](https://github.com/ITPNYU/ICM-2015/tree/master/09_video_sound)
+- 视频和实施捕捉
 
 - 其他library 的运用
 
@@ -801,7 +801,7 @@ python -m http.server
 
 	Glitch art 故障艺术
 
-- 简介max/msp
+
 
 **本次作业**
 
