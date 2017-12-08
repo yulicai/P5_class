@@ -767,11 +767,23 @@ python -m http.server
 
 - 视频和实施捕捉
 
+- 课堂例子
+	
+	[09004_点式绘画_实时捕捉](https://alpha.editor.p5js.org/yulicai/sketches/BJWYjZObG)
+
+	[09005_追踪画笔_实时捕捉](https://alpha.editor.p5js.org/yulicai/sketches/rJqRcb_bG)
+
+	[09006_黑白镜子_实时捕捉](https://alpha.editor.p5js.org/yulicai/sketches/SJ4Bi-_bf)
+
+	[09003_情绪识别_clmtrackr](https://alpha.editor.p5js.org/)
+
 - 其他library 的运用
 
 	如何嵌入其他library
 
 	Clmtrackr 面部识别
+
+	[clmtrackr更多信息](https://github.com/auduno/clmtrackr)
 
 	(用本地的方式展示）需要测试online editor与video capture的兼容性
 
