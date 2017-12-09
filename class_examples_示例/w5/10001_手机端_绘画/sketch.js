@@ -18,6 +18,6 @@ function setup() {
 function touchMoved(){
   strokeWeight(10);
   stroke(0);
-  line(touchX, touchY, ptouchX, ptouchY);
+  line(mouseX, mouseY, pmouseX, pmouseY);
   return false;
 }

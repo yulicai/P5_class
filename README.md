@@ -859,7 +859,7 @@ Final project idea， 最终作品概念
 
 - 课堂例子
 
-	[10001_手机端_绘画](https://alpha.editor.p5js.org/)
+	[10001_手机端_绘画](https://alpha.editor.p5js.org/yulicai/sketches/B1cISA_Zf)
 	
 	[10002_手机端_多指绘画](https://alpha.editor.p5js.org/yulicai/sketches/B1MRkCOZf)
 
