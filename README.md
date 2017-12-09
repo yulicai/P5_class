@@ -847,7 +847,19 @@ Final project idea， 最终作品概念
 
 - Index.html内容也上做了一些改变，方便手机浏览
 
-	[Using viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
+	[Using viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)<br>
+
+	index.html 里需要加入的几行代码，上面的这个链接解释了为什么
+	```
+	<meta name="format-detection" content="telephone=no">
+	<meta name="msapplication-tap-highlight" content="no">
+	<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+	<meta name="HandheldFriendly" content="True" />
+	```
+
+- 课堂例子
+	
+	[10002_手机端_多指绘画](https://alpha.editor.p5js.org/yulicai/sketches/B1MRkCOZf)
 
 **本次作业**
 **例子**
