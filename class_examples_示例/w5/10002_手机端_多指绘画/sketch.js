@@ -4,8 +4,8 @@
  * Yuli Cai 蔡雨利 caiyuli.com
  */
 
-// Example 10-1: mobile interaction with p5
-// 示例10-1: p5手机端互动
+// Example 10-2: mobile interaction with p5
+// 示例10-2: p5手机端互动 多指绘画
 // 翻译注释自 itp - icm
 
 //https://alpha.editor.p5js.org/full/B1MRkCOZf

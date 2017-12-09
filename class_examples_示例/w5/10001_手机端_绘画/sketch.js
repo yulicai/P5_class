@@ -14,16 +14,10 @@ function setup() {
   background(200);
 }
 
-// 有一个特殊的功能叫touchMoved()来检测设备是否被触动
-function touchMoved() {
-  strokeWeight(10)
+
+function touchMoved(){
+  strokeWeight(10);
   stroke(0);
-
-  // 在这列touchX, touchY 就像mouseX, mouseY
   line(touchX, touchY, ptouchX, ptouchY);
-  // 以下是非移动端的写法
-  // line(mouseX, mouseY, pmouseX, pmouseY);
-
-  // 这个返回参数防止互动的过程拽动屏幕
   return false;
 }

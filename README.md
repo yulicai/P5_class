@@ -858,8 +858,16 @@ Final project idea， 最终作品概念
 	```
 
 - 课堂例子
+
+	[10001_手机端_绘画](https://alpha.editor.p5js.org/)
 	
 	[10002_手机端_多指绘画](https://alpha.editor.p5js.org/yulicai/sketches/B1MRkCOZf)
+
+	[10003_手机端_重力](http://alpha.editor.p5js.org/yulicai/sketches/rkK8QAdWG)
+
+	[10004_手机端_摇晃](http://alpha.editor.p5js.org/yulicai/sketches/BkbsNCObM)
+
+	[10005_力_natureOfCode与类](https://alpha.editor.p5js.org/yulicai/sketches/Bk2QKUF-z)
 
 **本次作业**
 **例子**
@@ -875,10 +883,6 @@ Final project idea， 最终作品概念
 [设备翻身](http://alpha.editor.p5js.org/projects/ryMwSnyxx)
 
 [设备摇晃](http://alpha.editor.p5js.org/projects/rkmqU2Jee)
-
-
-
-[重力球](http://alpha.editor.p5js.org/projects/Hylv2b_xl)
 
 [加速度盒子](http://alpha.editor.p5js.org/projects/BJxoCbdxx)
 
