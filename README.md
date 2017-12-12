@@ -652,7 +652,9 @@ python -m http.server
 <br>
 
 
-### 7. 数据的艺术 Intro to Data
+### 数据与粒子系统进阶 
+1. 数据的艺术 Intro to Data
+2. 运用API与粒子系统进阶
 
 ##### 课程目标：
 
