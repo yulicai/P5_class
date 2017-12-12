@@ -40,8 +40,8 @@ function ballMove() {
   ax = accelerationX;
   ay = accelerationY;
 
-  vx = vx + ay;
-  vy = vy + ax;
+  vx = vx + ax;
+  vy = vy + ay;
   y = y + vy;
   x = x + vx;
 
