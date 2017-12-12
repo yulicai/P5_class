@@ -12,7 +12,7 @@
 let api = "http://api.giphy.com/v1/gifs/search?";
 let apiKey = "&api_key=dc6zaTOxFJmzC";
 let myKey = "hgdTuJLx2onIwW9k7KTTPu8nFqEViQrK";
-let query = "&q=rainbow";
+let query = "&q=china";
 
 
 function setup() {
