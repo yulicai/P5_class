@@ -1,5 +1,5 @@
 # P5创意编程
-###### 2017
+###### 2017-2018
 ###### [蔡雨利](http://caiyuli.com/) x 最毕设
 
 
@@ -9,17 +9,12 @@
 3. [p5 Reference 指令参考](https://p5js.org/reference/)
 4. yuli.cai@nyu.edu
 
-#### 其他资源
+#### 其他资源, other resources
 1. [CMU Interactivity & Computation课程纲要](http://cmuems.com/2016/60212/)
 
+2. [Dan Shiffman](http://shiffman.net/)
 
-
-***
-
-
-[Dan Shiffman](http://shiffman.net/)
-
-[Lauren Mccarthy](http://lauren-mccarthy.com/)
+3. [Lauren Mccarthy](http://lauren-mccarthy.com/)
 
 ## 课程创意案例
 1. [Constellation](https://www.openprocessing.org/sketch/434620)
