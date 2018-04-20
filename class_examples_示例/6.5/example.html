@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>This is a sample page</title>
+    <!-- 下面是css -->
+    <style type="text/css">
+    	/*1. 可以直接用element名称掌控, 作用于所有这一种类的tag*/
+    	body{
+    		margin: 0;
+    		background-color: black;
+    		color: red;
+    	}
+
+    	/*2. 用id来掌控，每一个id对应一个元素，等于是叫名字*/
+    	#egg_text{
+    		font-size: 18;
+    		color: blue;
+    		padding-left: 100px;
+    	}
+
+    	/*3. 用大类，class来掌控，所有有着相同class名称的 都作用*/
+    	.other_text{
+    		color: yellow;
+    		margin-left: 200px;
+    	}
+
+    </style>
+</head>
+
+<body>
+    <h1> 这个是最大号的字</h1>
+    <p>段落</p>
+    <div>
+    	<p id = "egg_text">下面是一张鸡蛋的图片</p>
+    	<img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1343077133,59005718&fm=27&gp=0.jpg">
+    </div>
+
+    <h2 class="other_text">其他的一些话</h2>
+    <h3 class="other_text"> 这又是另一行</h3>
+</body>
+
+</html>

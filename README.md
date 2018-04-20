@@ -35,6 +35,7 @@
 4. 	基于编程语言的创意互动视觉 － 03
 5. 	基于编程语言的创意互动视觉 － 04
 6. 	画布之外
+6.5 p5与html,图形界面
 7. 	数据的艺术 Intro to Data
 8. 	视频与声音与图像 Video & Sound & Image
 9. 	移动端（手机）创作
@@ -646,6 +647,58 @@ python -m http.server
 
 <br>
 
+
+
+### 6.5 p5 Dom & 基本HTML5
+
+##### 课程目标：
+
+##### 进一步理解HTML5以及其中的元素
+
+##### 运用p5 Dom元素为之前的作品创作GUI图形界面
+
+- 基础HTML5
+	1. 框架简介
+	2. 基本tags (element元素)以及其含义
+	3. 基本CSS， 三种控制css的方式
+	
+- p5 DOM
+	1. p5与HTML的关系
+	2. createCanvas
+	3. slider滑条
+	4. button按钮
+	5. videoCapture 视频捕捉
+
+
+
+<br>
+
+**本次作业**
+
+结合p5,DOM， 为之前的作品创作一个图形界面去控制不同的数值。
+
+<br>
+
+**例子**
+
+- 基于同一个构造的三个不同例子
+
+	[圆-变色（不可逆）](http://alpha.editor.p5js.org/mimi/sketches/rJKyIvZ3W)
+
+	[圆-替换颜色（可逆）](http://alpha.editor.p5js.org/mimi/sketches/BkZTgUKjW)
+
+	[圆-消失](http://alpha.editor.p5js.org/mimi/sketches/HJzO3uq2Z)
+
+	[自然画线](https://p5js.org/examples/hello-p5-drawing.html)
+
+
+
+
+<br>
+
+***
+
+<br>
 
 ### 数据与粒子系统进阶 
 1. 数据的艺术 Intro to Data
