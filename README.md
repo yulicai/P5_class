@@ -827,7 +827,7 @@ python -m http.server
 
 	[09006_黑白镜子_实时捕捉](https://alpha.editor.p5js.org/yulicai/sketches/SJ4Bi-_bf)
 
-	[09003_情绪识别_clmtrackr](https://alpha.editor.p5js.org/)
+	[09003_情绪识别_clmtrackr](https://alpha.editor.p5js.org/yulicai/sketches/BJG8nbO-M)
 
 - 其他library 的运用
 
