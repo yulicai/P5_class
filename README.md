@@ -42,7 +42,7 @@
 7. 	数据的艺术(上) Intro to Data
 8. 	数据的艺术(下) Intro to Data
 9. 	视频与声音与图像 Video & Sound & Image
-10. 	移动端（手机）创作
+10. 移动端（手机）创作
 11. 让你的作品玩转朋友圈(HTML, P5 Dom)
 12. p5之外更广的世界
 
