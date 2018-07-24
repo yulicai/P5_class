@@ -52,6 +52,8 @@
 
 <br>
 
+<br>
+
 ### 1. 创意编程简介和简单创意绘画 
 
 ##### 本次课程目标：
@@ -150,10 +152,13 @@
 
 [自画像](http://alpha.editor.p5js.org/YifanLiu/sketches/ByefCvxq-)
 
+<br>
 
 <br>
 
 ***
+
+<br>
 
 <br>
 
@@ -247,11 +252,13 @@
 
 <br>
 
+<br>
+
 ***
 
 <br>
 
-
+<br>
 
 ### 3.基于编程语言的创意互动视觉 － 02
 
@@ -343,6 +350,7 @@
 
 [鼠标点击递归绘画](http://alpha.editor.p5js.org/Simonmarqvard/sketches/BkLTb1OsW)
 
+<br>
 
 <br>
 
@@ -350,6 +358,7 @@
 
 <br>
 
+<br>
 
 ### 4.基于编程语言的创意互动视觉 － 03
 
@@ -439,7 +448,7 @@
 
 [随机线笔触](http://alpha.editor.p5js.org/xmhany/sketches/rkOmxSKnW)
 
-
+<br>
 
 <br>
 
@@ -447,7 +456,7 @@
 
 <br>
 
-
+<br>
 
 
 ### 5.基于编程语言的创意互动视觉 － 04
@@ -463,7 +472,6 @@
 <br>
 
 
-**作业分享，分析与答疑**
 
 **编程内容教学**
 
@@ -524,6 +532,7 @@
 
 
 
+
 <br>
 
 **例子**
@@ -538,6 +547,7 @@
 
 [软体](https://p5js.org/examples/simulate-soft-body.html)
 
+<br>
 
 <br>
 
@@ -545,6 +555,7 @@
 
 <br>
 
+<br>
 
 ### 6.画布之外
 
@@ -594,8 +605,6 @@ python -m http.server
 <br>
 
 
-**前期基础编程概念回顾**
-
 
 **编程内容教学**
 
@@ -637,7 +646,7 @@ python -m http.server
 	[自然画线](https://p5js.org/examples/hello-p5-drawing.html)
 
 
-
+<br>
 
 
 <br>
@@ -646,9 +655,11 @@ python -m http.server
 
 <br>
 
-### 数据与粒子系统进阶 
+<br>
+
+### 7. 数据的艺术-上(进阶课）
 1. 数据的艺术 Intro to Data
-2. 运用API与粒子系统进阶
+2. 初识API
 
 ##### 课程目标：
 
@@ -741,12 +752,35 @@ python -m http.server
 
 <br>
 
+<br>
+
 ***
 
 <br>
 
+<br>
 
-### 视频与声音+移动端创作+粒子系统进阶 - 1.摄像头捕捉与艺术性创作, 面部识别艺术创作
+### 8. 数据的艺术-下(进阶课）
+1. 类的概念补充
+2. 如何结合类和数据api做一个实时的风速模拟系统。
+
+##### 课程目标：
+
+##### 在拥有了上一节（第七节）对数据的基本了解下，这节课结合基础课类的概念，做实战。
+
+
+
+<br>
+
+<br>
+
+***
+
+<br>
+
+<br>
+
+### 9. 视频与声音+移动端创作+粒子系统进阶 - 1.摄像头捕捉与艺术性创作, 面部识别艺术创作 （进阶课）
 
 
 ##### 课程目标：
@@ -813,11 +847,12 @@ python -m http.server
 
 **本次作业**
 
+以下内容3选一：
 1. 运用实时视频做一个故障视觉影像。
 2. 结合某一种绘画/设计特征，做一个计算机的绘画。比如印象派，用相机的笔触画出印象派的感觉的计算机艺术。
 3. 为进阶课考核做一个小元素。
 
-
+<br>
 
 <br>
 
@@ -825,8 +860,10 @@ python -m http.server
 
 <br>
 
+<br>
 
-### 视频与声音+移动端创作+粒子系统进阶 - 2. 移动端（手机）创作，粒子系统进阶
+
+### 10. 视频与声音+移动端创作+粒子系统进阶 - 2. 移动端（手机）创作，粒子系统 (进阶课)
 
 ##### 课程目标：
 
@@ -865,6 +902,7 @@ python -m http.server
 	[10005_力_natureOfCode与类](https://alpha.editor.p5js.org/yulicai/sketches/Bk2QKUF-z)
 
 **本次作业**
+
 1. 结合手机自带的传感器（重力传感器），做一个简单的小游戏。
 
 **例子**
@@ -889,7 +927,7 @@ python -m http.server
 
 [双手放大缩小](http://alpha.editor.p5js.org/projects/SJpBDW_gg)
 
-
+<br>
 
 <br>
 
@@ -897,9 +935,9 @@ python -m http.server
 
 <br>
 
+<br>
 
-
-### 10 让你的作品玩转朋友圈 （p5 Dom & 基本HTML5）
+### 11. 让你的作品玩转朋友圈 （p5 Dom & 基本HTML5）
 
 ##### 课程目标：
 
@@ -944,7 +982,7 @@ python -m http.server
 
 	[Dom 5 - 实时视频捕捉](https://alpha.editor.p5js.org/yulicai/sketches/SJq5tiA2f)
 
-
+<br>
 
 <br>
 
@@ -952,8 +990,9 @@ python -m http.server
 
 <br>
 
+<br>
 
-### 11.P5之外更广的世界
+### 12.P5之外更广的世界
 
 ##### 课程目标：
 
