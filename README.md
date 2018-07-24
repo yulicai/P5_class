@@ -29,24 +29,24 @@
 
 ## 课程教案 Syllabus
 ### 课程大纲
+
+#### 基础课
 1. 	创意编程简介和简单创意绘画
 2. 	基于编程语言的创意互动视觉 － 01
 3. 	基于编程语言的创意互动视觉 － 02
 4. 	基于编程语言的创意互动视觉 － 03
 5. 	基于编程语言的创意互动视觉 － 04
 6. 	画布之外
-6.5 p5与html,图形界面
+
+#### 进阶课
 7. 	数据的艺术 Intro to Data
 8. 	视频与声音与图像 Video & Sound & Image
 9. 	移动端（手机）创作
-10. p5之外更广的世界
-11. 作品showcase
+10. 让你的作品玩转朋友圈(HTML, P5 Dom)
+11. p5之外更广的世界
 
 <br>
 
-#### 作业上交形式
-
-[点击此处进入作业页面](https://github.com/yulicai/P5_class/wiki/p5创意编程---作业区域/)，查看作业描述，上交作业
 
 ***
 
@@ -138,9 +138,7 @@
 	运用所学的基本绘画编程指令，画一个肖像画，自画像或者是他人肖像画<br>
 	要求： 有创意，追求视觉效果<br>
 	发散思维： 后期学更多的内容后，比如可以用projection mapping把肖像投影到雕塑上，比如可以用家里植物的生长速度控制画像中头发的增长速度...开脑洞
-2. 未来的畅想<br>
-	形式： 一段200字以内的文字或者一幅小画<br>
-	内容： 上完本次课程后，在现有的知识的基础上，觉得之后能把这个跟什么结合起来做一些什么创作,作为第一次博客/文字/图文的记录，在石墨文档中编辑。
+
 
 <br>
 
@@ -225,18 +223,18 @@
 
 **本次作业**
 
+涵盖以下特点：
+
 1. 作品每一次重新渲染，都是不一样的效果。
 2. 运用到鼠标的互动。
 3. 作品中有一些动态的元素，用random,或者translation来实现。
 4. 结合第一次作业肖像画一起做。
 
 
-__两次作业提交成一个，week1作业，包括代码和图文两种形式。__
 
 <br>
 
 **例子**
-
 
 
 [白日梦女孩](http://alpha.editor.p5js.org/Chelsea-chenchen/sketches/r1_z0kysb)
@@ -521,9 +519,10 @@ __两次作业提交成一个，week1作业，包括代码和图文两种形式�
 	2. 运用到某种生活中的力的概念
 		1. 简单的加速度的力
 		2. 弹簧的弹力
-		3. 摩擦力...
+		3. 摩擦力
+		4. 重力
 
-**回顾之前的课程，整理问题，下节课统一解答**
+
 
 <br>
 
@@ -597,7 +596,6 @@ python -m http.server
 
 **前期基础编程概念回顾**
 
-**作业分享，分析与答疑**
 
 **编程内容教学**
 
@@ -622,7 +620,7 @@ python -m http.server
 
 **本次作业**
 
-结合昨天的作业，总结前面的，做一个完整的由概念引导的作业。为了final大作业做准备。
+基础课课程考核。
 
 <br>
 
@@ -640,59 +638,6 @@ python -m http.server
 
 
 
-
-<br>
-
-***
-
-<br>
-
-
-
-### 6.5 p5 Dom & 基本HTML5
-
-##### 课程目标：
-
-##### 进一步理解HTML5以及其中的元素
-
-##### 运用p5 Dom元素为之前的作品创作GUI图形界面
-
-- 基础HTML5
-	1. 框架简介
-	2. 基本tags (element元素)以及其含义
-	3. 基本CSS， 三种控制css的方式
-	4. 简单个人作品主页
-	
-- p5 DOM
-	1. p5与HTML的关系
-	2. createCanvas
-	3. slider滑条
-	4. button按钮
-	5. videoCapture 视频捕捉
-
-
-
-<br>
-
-**本次作业**
-
-结合p5,DOM， 为之前的作品创作一个图形界面去控制不同的数值。
-
-<br>
-
-**例子**
-
-- 基于同一个构造的三个不同例子
-
-	[Dom 1 - 静态](https://alpha.editor.p5js.org/yulicai/sketches/S1wyOoRnM)
-
-	[Dom 2 - 按钮](https://alpha.editor.p5js.org/yulicai/sketches/HyMqdiA2z)
-
-	[Dom 3 - 滑条](https://alpha.editor.p5js.org/yulicai/sketches/rJjyKo03f)
-
-	[Dom 4 -特殊事件](https://alpha.editor.p5js.org/yulicai/sketches/By7EtoR2z)
-
-	[Dom 5 - 实时视频捕捉](https://alpha.editor.p5js.org/yulicai/sketches/SJq5tiA2f)
 
 
 <br>
@@ -811,7 +756,6 @@ python -m http.server
 <br>  
 
 
-**作业分享，分析与答疑**
 
 **编程内容教学**
 
@@ -869,9 +813,9 @@ python -m http.server
 
 **本次作业**
 
-**例子**
-
-Final project idea， 最终作品概念
+1. 运用实时视频做一个故障视觉影像。
+2. 结合某一种绘画/设计特征，做一个计算机的绘画。比如印象派，用相机的笔触画出印象派的感觉的计算机艺术。
+3. 为进阶课考核做一个小元素。
 
 
 
@@ -893,7 +837,6 @@ Final project idea， 最终作品概念
 <br>
 
 
-**作业分享，分析与答疑**
 
 **编程内容教学**
 
@@ -922,6 +865,8 @@ Final project idea， 最终作品概念
 	[10005_力_natureOfCode与类](https://alpha.editor.p5js.org/yulicai/sketches/Bk2QKUF-z)
 
 **本次作业**
+1. 结合手机自带的传感器（重力传感器），做一个简单的小游戏。
+
 **例子**
 
 以下例子用手机打开链接
@@ -944,11 +889,60 @@ Final project idea， 最终作品概念
 
 [双手放大缩小](http://alpha.editor.p5js.org/projects/SJpBDW_gg)
 
+
+
 <br>
 
-**Final Project 过程讨论**
+***
 
-开始创作的过程遇到的问题
+<br>
+
+
+
+### 10 让你的作品玩转朋友圈 （p5 Dom & 基本HTML5）
+
+##### 课程目标：
+
+##### 进一步理解HTML5以及其中的元素
+
+##### 运用p5 Dom元素为之前的作品创作GUI图形界面
+
+- 基础HTML5
+	1. 框架简介
+	2. 基本tags (element元素)以及其含义
+	3. 基本CSS， 三种控制css的方式
+	4. 简单个人作品主页
+	
+- p5 DOM
+	1. p5与HTML的关系
+	2. createCanvas
+	3. slider滑条
+	4. button按钮
+	5. videoCapture 视频捕捉
+
+
+
+<br>
+
+**本次作业**
+
+1. 结合p5,DOM， 为之前的作品创作一个图形界面去控制不同的数值。
+
+<br>
+
+**例子**
+
+- 基于同一个构造的三个不同例子
+
+	[Dom 1 - 静态](https://alpha.editor.p5js.org/yulicai/sketches/S1wyOoRnM)
+
+	[Dom 2 - 按钮](https://alpha.editor.p5js.org/yulicai/sketches/HyMqdiA2z)
+
+	[Dom 3 - 滑条](https://alpha.editor.p5js.org/yulicai/sketches/rJjyKo03f)
+
+	[Dom 4 -特殊事件](https://alpha.editor.p5js.org/yulicai/sketches/By7EtoR2z)
+
+	[Dom 5 - 实时视频捕捉](https://alpha.editor.p5js.org/yulicai/sketches/SJq5tiA2f)
 
 
 
@@ -959,7 +953,7 @@ Final project idea， 最终作品概念
 <br>
 
 
-### 10.P5之外更广的世界
+### 11.P5之外更广的世界
 
 ##### 课程目标：
 
@@ -995,20 +989,8 @@ Final project idea， 最终作品概念
 - VR AR 运用，Chrome Extensions
 
 
-**Final Project 过程讨论**
+**进阶课考核作业分享**
 
-
-**Final Project例子**
-
-[手机端煎鸡蛋](http://alpha.editor.p5js.org/full/BJc8V3QQx)
-
-[手机端挤蕃茄酱](http://alpha.editor.p5js.org/full/Hym-8c7mg)
-
-以上两个用手机打开，然后在屏幕上滑动
-
-[个人肖像](http://chan.dreamhosters.com/2016/12/06/final-project/)
-
-[自然月球互动](http://www.caiyuli.com/work/nature-geometry/)
 
 
 <br>
