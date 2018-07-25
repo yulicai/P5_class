@@ -9,7 +9,9 @@
 3. [p5 Reference 指令参考](https://p5js.org/reference/)
 4. yuli.cai@nyu.edu
 
-![p5中文社区-微信群交流](https://github.com/yulicai/P5_class/raw/master/images/p5_wechat.jpg)
+欢迎加入p5中文社区-微信群，不定时分享最新的p5.js资讯和好的创意编程作品
+
+![p5中文社区-微信群交流](https://github.com/yulicai/P5_class/raw/master/images/p5_wechat.jpg=300x)
 
 #### 其他资源, other resources
 1. [CMU Interactivity & Computation课程纲要](http://cmuems.com/2016/60212/)
