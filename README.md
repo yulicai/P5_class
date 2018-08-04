@@ -406,6 +406,7 @@
 	1. 数组的序列
 
 - 数组的基本元素，length
+
 	[例子 - 随机点名](http://alpha.editor.p5js.org/yulicai/sketches/Sk00FvCRZ) 
 
 - .push()
