@@ -404,7 +404,6 @@
 
 - 如何定义一个数组，数组的不同定义方法<br>
 	1. 数组的序列
-	2. [点名例子](http://alpha.editor.p5js.org/yulicai/sketches/Sk00FvCRZ)
 
 - 数组的基本元素，length
 
