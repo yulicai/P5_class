@@ -1,6 +1,6 @@
 /*
 * Basic  Drawing 基础图形绘画
-* Yuli Cai 蔡雨利
+* Yuli Cai / caiyuli.com
 */
 
 // Example 1-1: stroke and fill and color and shape

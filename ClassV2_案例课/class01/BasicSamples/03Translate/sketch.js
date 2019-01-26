@@ -1,5 +1,5 @@
 /*
- * Yuli Cai 蔡雨利 翻译自 Dan Shiffman 示例
+ * Yuli Cai/ caiyuli.com 翻译自 Dan Shiffman 示例
  */
 
 // Example: translate

@@ -1,7 +1,7 @@
 /*
 * 案例课01 基础互动动态海报
 * Basic Interactive Poster
-* Developed by: Yuli Cai 蔡雨利
+* Developed by: Yuli Cai / caiyuli.com
 */
 
 // 线上案例： https://editor.p5js.org/yulicai/sketches/1epvO5Mm-
