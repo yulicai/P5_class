@@ -1,153 +1,193 @@
 /*
-* 案例课02 流动互动动态海报
-* Flowy Interactive Poster
+* 案例课03 迷你story telling
 * Developed by: Yuli Cai / caiyuli.com
 */
 
-// 线上案例：https://editor.p5js.org/yulicai/sketches/Vo7mWX-1D
+// 线上案例：https://editor.p5js.org/yulicai/sketches/osbh6RnTo
 
-// 随机数相关
-let xstart, xnoise, ystart, ynoise;
+let segLength = 80,x, y, x2, y2;
 
-// 整体颜色形状相关
-let rectSize = 20;
-let col,textCol;
-let r = g = 0;
+let rectWidth = 150;
 
-
-// 文字相关
-let textR = 255;
-let textGap = 4;
-let font1,font2,font3;
-
-function preload() {
-  // 载入自己的字体 - 在对应的文件夹中
-  // 用线上编辑器的话，一定要先上传字体上来
-  font1 = loadFont('fonts/Bondi.ttf');
-  font2 = loadFont('fonts/Roboto.ttf');
-  font3 = loadFont('fonts/BalooTamma-Regular.ttf');
+let doorBell = {
+  x:150,
+  y:100,
+  size:50
 }
 
+let doorBell2 = {
+  x: 100,
+  y: 100,
+  size: 50
+}
+
+let soundEffect, eyeSound1, eyeSound2;
+let clicked1 = clicked2 = false;
+
+function preload() {
+  soundEffect = loadSound('assets/005.wav');
+  eyeSound1 = loadSound('assets/hurt1.wav');
+  eyeSound2 = loadSound('assets/hurt2.wav');
+}  
 
 function setup() {
-  // 设置
-  createCanvas(windowWidth,windowHeight);
-  textAlign(CENTER);
+  createCanvas(710, 400);
+  strokeWeight(20);
+  stroke(255, 100);
+  rectMode(CENTER);
 
-	col = color(r,g,255);
-  textCol = color(textR,0,0);
+  doorBell2.x = width - doorBell.x;
+  doorBell2.y = doorBell.y
 
-  // Base gap宽度
-  xstart = 2*rectSize;
-  ystart = 2*rectSize;
-
-  // 背景的格子
-  drawGrid();
+  x = width / 2;
+  y = height / 2;
+  x2 = x;
+  y2 = y;
 }
 
 function draw() {
-  // 底色的矩形
-  push();
-  fill(col);
-  noStroke();
-  // 整个画面二分之一宽度和高度的矩形，且居中
-  rect(width/2-width/4,height/2-height/4,width/2,height/2);
-  pop();
+  background(0);
+  dragSegment();
 
 
-  // 整体在运动的关键两行
-  xstart += 0.005;
-  ystart += 0.005;
-
-  xnoise = xstart;
-  ynoise = ystart;
-
-  push()
-  // 从底色矩形的左上顶点开始排列
-  translate(width/4,height/4);
-	// 格子的间隔是在随机变动的
-    for(let y = 0; y<height/2; y+=rectSize){
-    // 每一个格子的
-  	ynoise += noise(2);
-  	// 变动后重新reset到base
-  	xnoise = xstart;
-  	for(let x=0; x<width/2;x+=rectSize){
-  		xnoise +=noise(2);
-  		drawRect(x,y,noise(xnoise,ynoise)); // noise 返回值是0-1
-  	}
+  // 如果鼠标离关节固定点的距离已经超过了两段线伸直的距离
+  if(dist(mouseX,mouseY,x2,y2)>segLength*2){
+    if (!soundEffect.isPlaying()){
+    soundEffect.play();
+    }
   }
+  else{
+    if(soundEffect.isPlaying()){
+    soundEffect.stop();
+    }
+  }
+
+  // 画嘴巴
+  push();
+  fill(0,0,255);
+  strokeWeight(10);
+  stroke(255, 100);
+  rect(width/2,height-rectWidth/8,rectWidth,rectWidth/4);
   pop();
 
-  // 画出文字的方法（函数）
-  // 函数的内容在下面具体定义的地方
-  drawTextGroup("FAITH",width/2,height/2);
-  drawTextGroup("#¥%&*…%$.",width/2-100,height/2-100);
-  drawTextGroup("たまたま",width/2+100,height/2+100);
-}
+  // 画门铃1
+  if(clicked1){
+    push();
+    fill(255,0,0);
+    ellipse(doorBell.x, doorBell.y, doorBell.size);
+    pop();
+  }
+  else{
+    push();
+    fill(255);
+    ellipse(doorBell.x, doorBell.y, doorBell.size);
+    pop();
+  }
 
-
-// 画每个动的小正方形的函数（动态的部分在主函数draw当中）
-function drawRect(x,y,noiseFactor){
-  // len为矩形的大小
-	let len = rectSize*noiseFactor;
-	push();
-	fill(255);
-	noStroke();
-	rect(x,y,len,len);
-	pop();
-}
-
-
-// 画格子的函数
-function drawGrid(){
-	// lines
-  // 每行多少条线，自动由宽度和大小相除决定
-  let lineWideNum = width/rectSize;
-  let lineHighNum = height/rectSize;
-
-	push();
-  stroke(col);
-  for(let i = 0; i<lineWideNum;i++){
-    // 竖线
-	 line(i*rectSize,0,i*rectSize,height);
-	 for(let j=0;j<lineHighNum;j++){
-    // 横线
-		line(0,j*rectSize,width,j*rectSize);
-}
-}
- pop();
-}
-
-// 每个文字都是由几个重叠的文字组成的
-function drawTextGroup(line,baseX,baseY){
-  for(let i = 0;i<5;i++){
-  for(let j=0;j<2;j++){
-    // textGap是重叠文字之间的距离
-    // drawText具体的函数在下面，接受一个颜色的参数，所以会有渐变的效果
-    drawText(line, baseX+i*textGap*cos(PI/4),baseY+i*textGap*sin(PI/4),textR-i*20);
+  // 画门铃2
+  if (clicked2) {
+    push();
+    fill(255, 0, 0);
+    ellipse(doorBell2.x, doorBell.y, doorBell.size);
+    pop();
+  }
+  else {
+    push();
+    fill(255);
+    ellipse(doorBell2.x, doorBell.y, doorBell.size);
+    pop();
   }
 }
+
+////////////////////
+// 以下为非默认函数 //
+///////////////////
+
+function dragSegment() {
+  background(0);
+  // 计算鼠标与关节的固定点的距离
+  // 让线的方向与鼠标所相对关节固定点的方向一致
+  dx = mouseX - x;
+  dy = mouseY - y;
+  // 反三角函数计算出角度
+  angle1 = atan2(dy, dx);
+
+  tx = mouseX - cos(angle1) * segLength;
+  ty = mouseY - sin(angle1) * segLength;
+  // 鼠标相对于第一段线段节点的距离
+  dx = tx - x2;
+  dy = ty - y2;
+  angle2 = atan2(dy, dx);
+
+  // 第二条线段的起始点
+  x = x2 + cos(angle2) * segLength;
+  y = y2 + sin(angle2) * segLength;
+
+  // segment函数需要一个起始点
+  segment(x, y, angle1);
+  segment(x2, y2, angle2);
 }
 
-// 每一个最终显示出来的文字的最小集再次
-function drawText(line,x,y,col){
+function segment(x, y, a) {
   push();
-  translate(x,y);
-  rotate(-PI/6);
-  // 接受的颜色参数用来控制红色的程度
-  fill(col,0,0);
-  //textFont("font2");
-  textSize(76);
-  text(line,0,0);
+  translate(x, y);
+  rotate(a);
+  line(0, 0, segLength, 0);
   pop();
 }
 
+function inDoorBell1(){
+  // 函数的返回值
+  let result = false;
 
-function keyPressed(){
-  // 每次敲击键盘，都会有一个随机的颜色，还会调整文字的间隔
-r = random(255);
-g = random(255);
-col = color(r,g,255);
-textGap = random(1,8);
-drawGrid();
+  // 鼠标与圆心的距离小于圆的半径时
+  if(dist(mouseX,mouseY,doorBell.x,doorBell.y)<doorBell.size){
+    result = true;
+  }
+  else{
+    clicked1 = false;
+    result = false;
+  }
+  return result;
+}
+
+function inDoorBell2() {
+  // 函数的返回值
+  let result = false;
+
+  // 鼠标与圆心的距离小于圆的半径时
+  if (dist(mouseX, mouseY, doorBell2.x, doorBell2.y) < doorBell2.size) {
+    result = true;
+  }
+  else {
+    clicked2 = false;
+    result = false;
+  }
+  return result;
+}
+
+function mousePressed(){
+  if(inDoorBell1()){
+    // 左眼 左侧发声音
+    // 越往左panning越小，最小为-1
+    eyeSound1.pan(-1.0);
+    eyeSound1.play();
+    rectWidth = 300;
+    clicked1 = true;
+  }
+
+  if (inDoorBell2()) {
+    //右眼 右侧发声音
+    eyeSound2.pan(1.0);
+    eyeSound2.play();
+    rectWidth = 200;
+    clicked2 = true;
+  }
+}
+
+function mouseReleased(){
+  // 当鼠标不再按下的时候
+  // 所有的“被按下”状态复原
+  clicked1= clicked2 = false;
+  rectWidth = 150;
 }
