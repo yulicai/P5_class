@@ -1,10 +1,8 @@
 /*
-* Basic Bouncing Ball
-* p5js.org官方案例
-* 中文注释: Yuli Cai / caiyuli.com
+* Basic Bouncing Ball with Sound
 */
 
-// 线上案例：https://editor.p5js.org/yulicai/sketches/FlUYUtCzD
+// 线上案例：https://editor.p5js.org/yulicai/sketches/uI8Wk_LOX
 
 let rad = 60; // 圆的大小 radius
 let xpos, ypos; // 圆的初始位置
