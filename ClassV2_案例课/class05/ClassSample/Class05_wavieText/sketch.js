@@ -38,21 +38,27 @@ function setup() {
 
 
 function draw() {
-  background(cos(millis()/100)*180, 20, 255);
+  background(216, 20, 255);
+
+  // 对于数组当中的每一个字母都执行一遍
   for (let j = 0; j < letters.length; j++) {
     // translate(-bounds.x * width / bounds.w, -bounds.y * height / bounds.h);
+
+    // 为每个的边界和包围点调取之前setup获取到的信息
     let bounds = boundsCollection[j];
     let points = pointsCollection[j];
 
     push();
     beginShape();
+    // 位移到的x位置是基于画面的中央，再加上当前字母之前所有字母的宽度
     translate(width / 2 + j * (bounds.w + 30), height / 2);
 
+    // 对于一个字母里面包含的所有包围点都执行一遍
     for (let i = 0; i < points.length - 1; i++) {
       let p = points[i];
       // 每一个顶点的x坐标在灵动的挪动
       vertex(
-        p.x +sin((10 + j * 2) * p.y / bounds.h + millis() / 600) * 10*cos(millis()/100),
+        p.x +sin((10 + j * 2) * p.y / bounds.h + millis() / 600) * 10,
         p.y
       );
 
